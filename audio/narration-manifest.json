@@ -1,0 +1,2708 @@
+{
+  "version": 2,
+  "storyId": "thirteenth-lantern-adult-v2",
+  "storyTextSha256": "c11622bb44768fcb27a6e1750f95c8f3787252eca924f0fb901fefa15ea72811",
+  "narrator": {
+    "id": "qn_lorath_refined",
+    "label": "Approved narrator B",
+    "nativeRate": 24000,
+    "seed": 93019
+  },
+  "cast": {
+    "silas": "bm_daniel",
+    "mara": "af_heart",
+    "iona": "bf_emma",
+    "agnes": "af_nicole",
+    "kit": "am_fenrir",
+    "merrin": "af_bella",
+    "king": "bm_george",
+    "merchant": "bm_fable",
+    "conductor": "bm_lewis",
+    "bea": "af_sarah",
+    "widow": "af_kore",
+    "daniel": "am_onyx",
+    "sexton": "bm_daniel",
+    "cantor": "am_adam",
+    "stairbound": "bf_isabella",
+    "chain-bearer": "af_kore"
+  },
+  "pages": {
+    "last-bus": [
+      "page:last-bus:body-0",
+      "page:last-bus:body-1",
+      "page:last-bus:body-2",
+      "page:last-bus:body-3",
+      "page:last-bus:body-4",
+      "page:last-bus:dialogue-0",
+      "page:last-bus:dialogue-1"
+    ],
+    "festival-records": [
+      "page:festival-records:body-0",
+      "page:festival-records:body-1",
+      "page:festival-records:dialogue-0",
+      "page:festival-records:dialogue-1"
+    ],
+    "festival-children": [
+      "page:festival-children:body-0",
+      "page:festival-children:body-1",
+      "page:festival-children:body-2",
+      "page:festival-children:dialogue-0",
+      "page:festival-children:dialogue-1"
+    ],
+    "festival-collectors": [
+      "page:festival-collectors:body-0",
+      "page:festival-collectors:body-1",
+      "page:festival-collectors:dialogue-0",
+      "page:festival-collectors:dialogue-1"
+    ],
+    "manor-guestbook": [
+      "page:manor-guestbook:body-0",
+      "page:manor-guestbook:dialogue-0"
+    ],
+    "coatroom-faces": [
+      "page:coatroom-faces:body-0",
+      "page:coatroom-faces:dialogue-0"
+    ],
+    "portrait-winter": [
+      "page:portrait-winter:body-0",
+      "page:portrait-winter:body-1",
+      "page:portrait-winter:dialogue-0"
+    ],
+    "thirteenth-plate": [
+      "page:thirteenth-plate:body-0",
+      "page:thirteenth-plate:dialogue-0"
+    ],
+    "stairs-listen": [
+      "page:stairs-listen:body-0",
+      "page:stairs-listen:dialogue-0"
+    ],
+    "iona-workroom": [
+      "page:iona-workroom:body-0",
+      "page:iona-workroom:dialogue-0"
+    ],
+    "bellwrought-room": [
+      "page:bellwrought-room:body-0",
+      "page:bellwrought-room:dialogue-0"
+    ],
+    "cellar-covenant": [
+      "page:cellar-covenant:body-0",
+      "page:cellar-covenant:dialogue-0"
+    ],
+    "grave-count": [
+      "page:grave-count:body-0",
+      "page:grave-count:body-1",
+      "page:grave-count:dialogue-0"
+    ],
+    "sexton-water": [
+      "page:sexton-water:body-0",
+      "page:sexton-water:body-1",
+      "page:sexton-water:dialogue-0"
+    ],
+    "cantor-threshold": [
+      "page:cantor-threshold:body-0",
+      "page:cantor-threshold:body-1",
+      "page:cantor-threshold:dialogue-0"
+    ],
+    "bone-orchard": [
+      "page:bone-orchard:body-0",
+      "page:bone-orchard:dialogue-0"
+    ],
+    "unclaimed-room": [
+      "page:unclaimed-room:body-0",
+      "page:unclaimed-room:body-1",
+      "page:unclaimed-room:dialogue-0"
+    ],
+    "river-letter": [
+      "page:river-letter:body-0",
+      "page:river-letter:body-1",
+      "page:river-letter:dialogue-0"
+    ],
+    "quiet-coffin": [
+      "page:quiet-coffin:body-0",
+      "page:quiet-coffin:body-1",
+      "page:quiet-coffin:dialogue-0"
+    ],
+    "castle-road": [
+      "page:castle-road:body-0",
+      "page:castle-road:body-1",
+      "page:castle-road:dialogue-0"
+    ],
+    "king-audience": [
+      "page:king-audience:body-0",
+      "page:king-audience:body-1",
+      "page:king-audience:dialogue-0"
+    ],
+    "sleepers-gallery": [
+      "page:sleepers-gallery:body-0",
+      "page:sleepers-gallery:body-1",
+      "page:sleepers-gallery:dialogue-0"
+    ],
+    "iona-clock": [
+      "page:iona-clock:body-0",
+      "page:iona-clock:body-1",
+      "page:iona-clock:dialogue-0"
+    ],
+    "widow-doors": [
+      "page:widow-doors:body-0",
+      "page:widow-doors:body-1",
+      "page:widow-doors:dialogue-0"
+    ],
+    "cantor-court": [
+      "page:cantor-court:body-0",
+      "page:cantor-court:body-1",
+      "page:cantor-court:dialogue-0"
+    ],
+    "sexton-ledger": [
+      "page:sexton-ledger:body-0",
+      "page:sexton-ledger:body-1",
+      "page:sexton-ledger:dialogue-0"
+    ],
+    "wolf-stair": [
+      "page:wolf-stair:body-0",
+      "page:wolf-stair:body-1",
+      "page:wolf-stair:dialogue-0"
+    ],
+    "winter-window": [
+      "page:winter-window:body-0",
+      "page:winter-window:body-1",
+      "page:winter-window:dialogue-0"
+    ],
+    "crown-chain": [
+      "page:crown-chain:body-0",
+      "page:crown-chain:body-1",
+      "page:crown-chain:dialogue-0"
+    ],
+    "names-flame": [
+      "page:names-flame:body-0",
+      "page:names-flame:body-1",
+      "page:names-flame:dialogue-0"
+    ],
+    "home-handles": [
+      "page:home-handles:body-0",
+      "page:home-handles:body-1",
+      "page:home-handles:dialogue-0"
+    ],
+    "school-bell": [
+      "page:school-bell:body-0",
+      "page:school-bell:body-1",
+      "page:school-bell:dialogue-0"
+    ],
+    "town-answer": [
+      "page:town-answer:body-0",
+      "page:town-answer:body-1",
+      "page:town-answer:dialogue-0"
+    ],
+    "king-debt": [
+      "page:king-debt:body-0",
+      "page:king-debt:body-1",
+      "page:king-debt:dialogue-0"
+    ],
+    "memory-price": [
+      "page:memory-price:body-0",
+      "page:memory-price:body-1",
+      "page:memory-price:dialogue-0"
+    ],
+    "last-breath": [
+      "page:last-breath:body-0",
+      "page:last-breath:body-1",
+      "page:last-breath:dialogue-0"
+    ],
+    "names-at-dawn": [
+      "page:names-at-dawn:body-0"
+    ],
+    "winter-finished": [
+      "page:winter-finished:body-0"
+    ],
+    "archive-open": [
+      "page:archive-open:body-0"
+    ],
+    "borrowed-witness": [
+      "page:borrowed-witness:body-0"
+    ],
+    "children-home": [
+      "page:children-home:body-0"
+    ],
+    "lantern-common": [
+      "page:lantern-common:body-0"
+    ],
+    "monsters-unbound": [
+      "page:monsters-unbound:body-0",
+      "page:monsters-unbound:body-1"
+    ],
+    "long-watch": [
+      "page:long-watch:body-0"
+    ],
+    "crown-broken": [
+      "page:crown-broken:body-0"
+    ],
+    "dawn-road": [
+      "page:dawn-road:body-0"
+    ],
+    "town-unmasked": [
+      "page:town-unmasked:body-0"
+    ],
+    "one-more-year": [
+      "page:one-more-year:body-0",
+      "page:one-more-year:body-1"
+    ],
+    "landing": [
+      "landing"
+    ]
+  },
+  "clips": {
+    "page:last-bus:body-0": {
+      "src": "audio/narration/page-last-bus-body-0-2dfc600c8f48.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "2dfc600c8f48b0b528fe76d1823b316a696a88889a9f9d9c47c79d0c42359900",
+      "status": "ready",
+      "transcriptQA": "passed",
+      "audioSha256": "6db0d2b0848b75369b22c03c836b751a7afd1643398800489e3837bc28ddf672",
+      "durationSeconds": 50.4,
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "qaEvidence": {
+        "kind": "source-position-bound-independent-medium-comparison",
+        "technicalReceiptSha256": "fd012230dc638165af3d5fe9e0637514565d1fece85611106b455793acc45ce6",
+        "comparisonPolicyVersion": "opening-single-record-v1",
+        "humanListeningReviewed": false
+      }
+    },
+    "page:last-bus:body-1": {
+      "src": "audio/narration/page-last-bus-body-1-7324c586f0ee.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "7324c586f0ee36fd8a2a20e8f892e28df9b72cbbb580546d48f2df73b7ac661e",
+      "status": "ready",
+      "audioSha256": "1a53de61d4093007d47b2bdbc0510969c5ff84759410d4d3ac653134281c255c",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 50.08
+    },
+    "page:last-bus:body-2": {
+      "src": "audio/narration/page-last-bus-body-2-ad59f304eb07.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "ad59f304eb07e86e5d3608c640085e5258929047d3d6d3c5ca349ebb8354f256",
+      "status": "pending"
+    },
+    "page:last-bus:body-3": {
+      "src": "audio/narration/page-last-bus-body-3-a06867dbb915.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "a06867dbb915edb17e919b28a8037136d512b63b4b2c05d2f3483cebdab7d3f5",
+      "status": "pending"
+    },
+    "page:last-bus:body-4": {
+      "src": "audio/narration/page-last-bus-body-4-b46de035a9c5.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "b46de035a9c53c23a8e94de73daf4d62c1ec7f0e8ff88a62edf000ecb54c30fa",
+      "status": "ready",
+      "audioSha256": "eaed185ac0ab63844ea86fa7d97eedeac0a4a613e83cc7c6e7428e5380800413",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 21.68
+    },
+    "page:last-bus:dialogue-0": {
+      "src": "audio/narration/page-last-bus-dialogue-0-98b87e61f7cb.wav",
+      "voice": "bm_daniel",
+      "textSha256": "98b87e61f7cbfe6c8bcc2fb688a97d595c2c37752a2c549abe5347d3da6a2e94",
+      "status": "ready",
+      "audioSha256": "b33ad1f1a63d55e4689980b544f238e2ee9086c2b710623a3e04bb2aeb6f2cb7",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 2.538666666666667
+    },
+    "page:last-bus:dialogue-1": {
+      "src": "audio/narration/page-last-bus-dialogue-1-1f82c7e880b7.wav",
+      "voice": "af_heart",
+      "textSha256": "1f82c7e880b79f5978d83526290ae10bd4125d3509d80b3379eced9020a5dea0",
+      "status": "ready",
+      "audioSha256": "82697e9b7139ff7144709abbe1c471f5625298cd25e67bfd0ba597af7010b815",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 4.330666666666667
+    },
+    "choice:last-bus:records": {
+      "src": "audio/narration/choice-last-bus-records-a7ef4795e39a.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "a7ef4795e39a3af3893a837ce1214d2be13d1736ba57da20dff7bde59128754d",
+      "status": "ready",
+      "audioSha256": "28f7e3494178fbf7e3a42f496d02a63d264f3d3d42bb4c4001574e8058f7abca",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 9.36
+    },
+    "choice:last-bus:children": {
+      "src": "audio/narration/choice-last-bus-children-5279c95481f2.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "5279c95481f2c5e640bf891aa8afb92e9ae67cffac29a6a1754ecb781a4bbac7",
+      "status": "ready",
+      "audioSha256": "1a40fe4d2be49230b50e9040ea431ac85eda9468018bf06a45f86748159dfe66",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 9.52
+    },
+    "choice:last-bus:procession": {
+      "src": "audio/narration/choice-last-bus-procession-a28855b98bee.wav",
+      "status": "ready",
+      "voice": "qn_lorath_refined",
+      "textSha256": "a28855b98bee3e8f94c3f8d894867f531a4536d85cc7e6c199eea958f0fa9c22",
+      "audioSha256": "b67eeb06c93df7684b40a09c2e400c7619ed2c7413d9cb63eeb684da2f304b20",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 9.840041666666666,
+      "normalizationVersion": 3
+    },
+    "page:festival-records:body-0": {
+      "src": "audio/narration/page-festival-records-body-0-92bbd0975c7a.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "92bbd0975c7ab02b3cdfc83d44e596f60bad9f88d816a50d740cecc2b545eedf",
+      "status": "pending"
+    },
+    "page:festival-records:body-1": {
+      "src": "audio/narration/page-festival-records-body-1-2cabab4ddfd9.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "2cabab4ddfd929a66a9b4e6bc4bce538f8af5cf07419762f339f8b83457f96cd",
+      "status": "pending"
+    },
+    "page:festival-records:dialogue-0": {
+      "src": "audio/narration/page-festival-records-dialogue-0-12d948c872b2.wav",
+      "voice": "bm_fable",
+      "textSha256": "12d948c872b2cb96b9bb4a7c83a48eae81243fb804cce4b11b4d3a13edf00849",
+      "status": "ready",
+      "audioSha256": "265d6a7549411adda9b8230168ced7c49f1e4bc41c13583ecad8cbe41dbe3129",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 3.8186666666666667
+    },
+    "page:festival-records:dialogue-1": {
+      "src": "audio/narration/page-festival-records-dialogue-1-5c95be5c0de6.wav",
+      "voice": "af_heart",
+      "textSha256": "5c95be5c0de67301c23b81f7834f49db5aee6f25a49965497db147ac56ec6f05",
+      "status": "ready",
+      "audioSha256": "bf2d97c92e4693ae39e2005ba61a2cc69b472badbb2d45399914cdbe171739fe",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 4.842666666666666
+    },
+    "choice:festival-records:labels": {
+      "src": "audio/narration/choice-festival-records-labels-f170c69a090e.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "f170c69a090e92e2c2d671c65dd7fdbb5f1289ba101b428e7a483a4fe23a4dbe",
+      "status": "ready",
+      "audioSha256": "9f3a65203ce3e7ed76490ba6f582183f0762ab0af1e5886dd6024339ed4e4196",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 8.48
+    },
+    "choice:festival-records:knight": {
+      "src": "audio/narration/choice-festival-records-knight-6aaa930b940d.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "6aaa930b940dee0a39a86c8f7acd94c036d7515143998a894a6774e504f2e727",
+      "status": "ready",
+      "audioSha256": "d5ba684168140ce4c7acb974cb5baacd05d38cf66d1cd827a84e559a8a63bd6a",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.2
+    },
+    "choice:festival-records:brake": {
+      "src": "audio/narration/choice-festival-records-brake-c3f8f5a84abe.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "c3f8f5a84abebd551030f503bd0c9e0a7b6acd374ef30746da295094a1602cb0",
+      "status": "ready",
+      "audioSha256": "53e5cbf817c7ab448fd69395f4674870150e34454f9d9d9e4b74eeae732b5916",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 10.16
+    },
+    "page:festival-children:body-0": {
+      "src": "audio/narration/page-festival-children-body-0-3d4262c6ae6b.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "3d4262c6ae6bd1ca46ac8d69fa5dc44eb6333e39b9ebc30c4e9ec0fa261d60e5",
+      "status": "pending"
+    },
+    "page:festival-children:body-1": {
+      "src": "audio/narration/page-festival-children-body-1-602f9ffd45da.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "602f9ffd45da9cd6762bd995c4a3681c268fc3be46358338c315fc6c2e44a011",
+      "status": "pending"
+    },
+    "page:festival-children:body-2": {
+      "src": "audio/narration/page-festival-children-body-2-3cb4ba14fd26.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "3cb4ba14fd2625d2c026e44764f8d79fa313de2e2a671defae2bd636a6326b83",
+      "status": "ready",
+      "audioSha256": "5518971161b7986ba55fe8d74497d3c10959d409d7d13eac2944175a72e95dea",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 44.48
+    },
+    "page:festival-children:dialogue-0": {
+      "src": "audio/narration/page-festival-children-dialogue-0-0c79132c303e.wav",
+      "voice": "af_sarah",
+      "textSha256": "0c79132c303e52efe66ae9f5ea8e45dfb01f8319b46946e2a54a3936bdbc6981",
+      "status": "ready",
+      "audioSha256": "18ed9367f07c80bfdbe096f1752886f128cfe57f325f5ab20ef1b512d66276a5",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 3.8186666666666667
+    },
+    "page:festival-children:dialogue-1": {
+      "src": "audio/narration/page-festival-children-dialogue-1-449e28c1f3b1.wav",
+      "voice": "bm_daniel",
+      "textSha256": "449e28c1f3b1f8f2b30bd3284a2ad2e8b577fcb307ff6228a9ab67dc73385018",
+      "status": "ready",
+      "audioSha256": "b8dacdd5af2487378f1da9d1df600f6d461939d3f402fba62100b87aea026073",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 2.9013333333333335
+    },
+    "choice:festival-children:remember": {
+      "src": "audio/narration/choice-festival-children-remember-ec2349fb6218.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "ec2349fb62185a1067b1214de2b697b493aaee88feb4be235b6ae959b1a7d532",
+      "status": "ready",
+      "audioSha256": "c4f54988330e0f2d3c76f3255dd5a2ba3da4cb62cfb6688d99e56b6f2b8a677b",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.92
+    },
+    "choice:festival-children:release": {
+      "src": "audio/narration/choice-festival-children-release-629e99d33493.wav",
+      "status": "ready",
+      "voice": "qn_lorath_refined",
+      "textSha256": "629e99d33493fa2b83f762d33a8a9c4f6ff5b1a07faa3d3341883418fa5bd9a2",
+      "audioSha256": "67f6d0a0005c6056b800a84e7637c6047d1ecaadf9734769fd0796ee0cac4e40",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "normalizationVersion": 2,
+      "durationSeconds": 7.6
+    },
+    "choice:festival-children:reverse": {
+      "src": "audio/narration/choice-festival-children-reverse-3ca0df0279e3.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "3ca0df0279e30bc36e03c3cbd788c71d6577fdddc5f29f409402953363d8bf5e",
+      "status": "ready",
+      "audioSha256": "dcb3e7b58466a0baa8c4353e64668606147d0e841733f3b89fafb0bc89d747e9",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 12
+    },
+    "page:festival-collectors:body-0": {
+      "src": "audio/narration/page-festival-collectors-body-0-5de466052c63.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "5de466052c630bfe34bdf22627cd049f567f2a400e54cb0d144d35fde1de58e9",
+      "status": "pending"
+    },
+    "page:festival-collectors:body-1": {
+      "src": "audio/narration/page-festival-collectors-body-1-7e161518b1d4.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "7e161518b1d44dfe457fd4c815cbc1e46a6e0b2ddae9fcf7620244ea208b5d61",
+      "status": "ready",
+      "audioSha256": "67f38a7245b541cc2360f765cb3fd4098e71e4f376a65940cf0a4d619ee6f01c",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 59.52
+    },
+    "page:festival-collectors:dialogue-0": {
+      "src": "audio/narration/page-festival-collectors-dialogue-0-fb411baf546d.wav",
+      "voice": "af_kore",
+      "textSha256": "fb411baf546df8bde6e7fa371e6ffa119d37150f5560c826f279d257e4a004e3",
+      "status": "ready",
+      "audioSha256": "2dd42ecfa72b8abd29c7bd48c631e2b66af697cf3ee0ae04a9c3edd6d85af8cb",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 4.032
+    },
+    "page:festival-collectors:dialogue-1": {
+      "src": "audio/narration/page-festival-collectors-dialogue-1-f2c208bf294b.wav",
+      "voice": "af_heart",
+      "textSha256": "f2c208bf294b915f1d0abc703ce3dc154ddde54ccc5206d254171788f844d2af",
+      "status": "ready",
+      "audioSha256": "6fd895624761310a033921f1e94baad1a83050151ecceb29506b35ab59ff8df4",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 4.565333333333333
+    },
+    "choice:festival-collectors:letters": {
+      "src": "audio/narration/choice-festival-collectors-letters-54fcf7b75ad0.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "54fcf7b75ad0bf21f6161ea12c79d78228935aeb20d743bf4e2ae3602e59d7f6",
+      "status": "ready",
+      "audioSha256": "9ecf9598fae2d48a0f7a21546b1f6fc4cf2eff3fc009307f71daf5f3b7b0a36f",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 10.08,
+      "normalizationVersion": 2,
+      "technicalComparisonEvidence": "root-reviewed-private-short-cap100-strict-v2"
+    },
+    "choice:festival-collectors:widow": {
+      "src": "audio/narration/choice-festival-collectors-widow-576f1b633535.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "576f1b63353513073cf9fe4a694727d7adc825a3297de8f3a1f44d7440edba57",
+      "status": "ready",
+      "audioSha256": "11b34f981542731cc6ddb257fb68cb4c2dd139ffa2a1c61646a479550d431cdd",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.6
+    },
+    "choice:festival-collectors:procession": {
+      "src": "audio/narration/choice-festival-collectors-procession-f8721b38d4a4.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "f8721b38d4a4d0bc3e29e97839d740e9a1e30d7aa34f8aa8e9ffefb12f765e82",
+      "status": "ready",
+      "audioSha256": "c292565cdc3ddfd2bce0b65d4ec3b7f9480e4560e0bcdc58773a4f139ff0d8a4",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 8.96
+    },
+    "page:manor-guestbook:body-0": {
+      "src": "audio/narration/page-manor-guestbook-body-0-77494352cea0.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "77494352cea04068fe081d3d67c7ba1e56b2546845fa8f7e89efe5fbd91004d9",
+      "status": "pending"
+    },
+    "page:manor-guestbook:dialogue-0": {
+      "src": "audio/narration/page-manor-guestbook-dialogue-0-dac361e6c1bf.wav",
+      "voice": "af_heart",
+      "textSha256": "dac361e6c1bf59892b8ba4b5500b08caca04ff97c51a45a4157471b505d87f11",
+      "status": "ready",
+      "audioSha256": "e5ec5bdbc1c9d3397810979da83449b4a7c704cf48bbd6ae3f561f4c25bc2d30",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 3.072
+    },
+    "choice:manor-guestbook:witness": {
+      "src": "audio/narration/choice-manor-guestbook-witness-ca52504b0608.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "ca52504b06081dda12c66f2615624c426acb5aa5ebe3e4bab361531b553dea0c",
+      "status": "ready",
+      "audioSha256": "d73df5bea88e085d3acac5ddb77c133cc0bfc6a3bcd64d6038478321a1a18dfa",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.92
+    },
+    "choice:manor-guestbook:drawing": {
+      "src": "audio/narration/choice-manor-guestbook-drawing-8a412dfe3fee.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "8a412dfe3feed4512b84fe1f388fedeee2744e806d711560e28a3ee61bf3d0b5",
+      "status": "ready",
+      "audioSha256": "c5246db7dbec08682a1e9b3bb9fd06a15068456d8b7287ebf38558566ad5343e",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.2
+    },
+    "choice:manor-guestbook:refuse": {
+      "src": "audio/narration/choice-manor-guestbook-refuse-8f30d239077b.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "8f30d239077ba9f676bbc30fca0f2c2ec515fdd3f03642c924f73c09f1f49c97",
+      "status": "ready",
+      "audioSha256": "96dae102b0e0aeac2ec6ae9eecb93a99e50b5aec6a99b17f15b9d25fc2d2cd6c",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.52
+    },
+    "page:coatroom-faces:body-0": {
+      "src": "audio/narration/page-coatroom-faces-body-0-87969cb66c88.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "87969cb66c880c4aae32d0e59900d978f94c5d699950e7f7e8276c1ea6487120",
+      "status": "pending"
+    },
+    "page:coatroom-faces:dialogue-0": {
+      "src": "audio/narration/page-coatroom-faces-dialogue-0-e5ff2fa18ffe.wav",
+      "voice": "bm_daniel",
+      "textSha256": "e5ff2fa18ffe9b062ca7358d858906b7c50cd62b57100eb84f0a869aa41fe8e2",
+      "status": "ready",
+      "audioSha256": "3d8e0174cc1ff7acc6768e19f75cf9931b39fb7b3f3eafd666137aa34e5fce4b",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 4.330666666666667
+    },
+    "choice:coatroom-faces:daniel": {
+      "src": "audio/narration/choice-coatroom-faces-daniel-2d2b9cdc5be7.wav",
+      "status": "ready",
+      "voice": "qn_lorath_refined",
+      "textSha256": "2d2b9cdc5be77070314257cc874daa42707cc67d2201500a0a1a3ad321e650f2",
+      "audioSha256": "fd26c942152e5c79c9f485eafd792e22b1d6a388fd670146bdfa445f08268495",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "normalizationVersion": 2,
+      "durationSeconds": 6.720041666666667
+    },
+    "choice:coatroom-faces:sleeve": {
+      "src": "audio/narration/choice-coatroom-faces-sleeve-1168f1dd187d.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "1168f1dd187d5ba0b106db1254d5ebeecc1fe0dabf98d0e843414b1e04f545f1",
+      "status": "ready",
+      "audioSha256": "46c44ad4c483bfa130f5e49c768415a795bbeec3c909c1191bd6231acf807b63",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.2
+    },
+    "choice:coatroom-faces:costumes": {
+      "src": "audio/narration/choice-coatroom-faces-costumes-70da7abbbd02.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "70da7abbbd026f3badbc538f8a33c4c4455a5f1ed6b8d8a4f9242ced87755694",
+      "status": "ready",
+      "audioSha256": "4ac66c0f19ef2dfedbaa87134bfbe045328998e68c2c34d467d79a30a87c6f51",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 6.48
+    },
+    "page:portrait-winter:body-0": {
+      "src": "audio/narration/page-portrait-winter-body-0-9b814011974d.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "9b814011974d7e42b6fab9bc112e80ae9523942e1b26c9feb2444bd7dc14933c",
+      "status": "pending"
+    },
+    "page:portrait-winter:body-1": {
+      "src": "audio/narration/page-portrait-winter-body-1-35d3afd40a00.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "35d3afd40a005de03f3257dd6adea79795e88ee05d82df7132d71659df20ff9b",
+      "status": "ready",
+      "audioSha256": "1a9ac508a6fc96db71b02a4ec19e1e1260cd54dc133c1f6d561f316b919d6820",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 21.12
+    },
+    "page:portrait-winter:dialogue-0": {
+      "src": "audio/narration/page-portrait-winter-dialogue-0-5d103ce565ac.wav",
+      "voice": "af_heart",
+      "textSha256": "5d103ce565acf5091cd43eccdab49ff7cc6472ae5e08939e09988298f691a08b",
+      "status": "ready",
+      "audioSha256": "ebad359fc3b772697ab3b0ddad69588482795865a3dc4cea098c65e051889db9",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 3.648
+    },
+    "choice:portrait-winter:winter": {
+      "src": "audio/narration/choice-portrait-winter-winter-4d0cdea74c26.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "4d0cdea74c26432fc9a5788499f61e9e3f1ea402a145cccf689e9a6b951eda7a",
+      "status": "ready",
+      "audioSha256": "fa5fee98b9e3bbb3d160a92adc9eb9c6c5f8f25d9a52d63c6bd20767907ef6ef",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.84
+    },
+    "choice:portrait-winter:daughter": {
+      "src": "audio/narration/choice-portrait-winter-daughter-3981f38e6c37.wav",
+      "status": "ready",
+      "voice": "qn_lorath_refined",
+      "textSha256": "3981f38e6c374c0f2b46202f45f7fdcfdf483a181377179617d409bc8fcfa4e8",
+      "audioSha256": "c11e43b8df1bea16c5b21421f4ec867b44dee732b112e3b25635eb893ea9b96b",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "normalizationVersion": 2,
+      "durationSeconds": 7.92
+    },
+    "choice:portrait-winter:crown": {
+      "src": "audio/narration/choice-portrait-winter-crown-f088d6d64a3c.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "f088d6d64a3cb1c663de4099c6575a832517f0ba0793d001d81c8be895695f9a",
+      "status": "ready",
+      "audioSha256": "1b4cc85f300cf711927745f961ee91731fb850b87298e5e84e525019dc194216",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.84
+    },
+    "page:thirteenth-plate:body-0": {
+      "src": "audio/narration/page-thirteenth-plate-body-0-91a21c30e697.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "91a21c30e697065f0dd507762f9b3e07c1273c5e3407d86de12656b9226cf8dd",
+      "status": "pending"
+    },
+    "page:thirteenth-plate:dialogue-0": {
+      "src": "audio/narration/page-thirteenth-plate-dialogue-0-4929280e6dcf.wav",
+      "voice": "af_heart",
+      "textSha256": "4929280e6dcfba0712a765c82de1ff6dba34288b49dfd724034cdf3415279db6",
+      "status": "ready",
+      "audioSha256": "c0d82942a32a19a02b498743e6eb580eba1a879ffc0c950de79cb481b27f9861",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 4.437333333333333
+    },
+    "choice:thirteenth-plate:ledger": {
+      "src": "audio/narration/choice-thirteenth-plate-ledger-0a0f9377c002.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "0a0f9377c002b88cd5f2c8b454ebe8ed1bcc3e1a65920e54002e8aa9ef1b08b4",
+      "status": "ready",
+      "audioSha256": "93511d52728f9e2f2ee615934c148055f71879a21e08aff1726d0622aab543c1",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 6.08
+    },
+    "choice:thirteenth-plate:bread": {
+      "src": "audio/narration/choice-thirteenth-plate-bread-c6ee6216771f.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "c6ee6216771f4a9353cc29af6fc7dc593fda7d1ff1993acfc13c64b76a724537",
+      "status": "ready",
+      "audioSha256": "9912bab25138a1c2a61636354692ad50254dc8854a39f8e2ed3b5bd3139ff372",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 8.24
+    },
+    "choice:thirteenth-plate:place": {
+      "src": "audio/narration/choice-thirteenth-plate-place-252eb999e36d.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "252eb999e36d167b4cf615dcadd310581aa805bffd2a890f81c804d73ad1ce07",
+      "status": "ready",
+      "audioSha256": "abf50c3d9f1e667aab9c1009066a8b6cc0ea76585ec64c7e00e7af7df7ecedd2",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.36
+    },
+    "page:stairs-listen:body-0": {
+      "src": "audio/narration/page-stairs-listen-body-0-5efaa7e79d0a.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "5efaa7e79d0a6bf819dd79dc91770fd63ad04d8e47c863fead09e63b9c767624",
+      "status": "pending"
+    },
+    "page:stairs-listen:dialogue-0": {
+      "src": "audio/narration/page-stairs-listen-dialogue-0-63eecb05a47f.wav",
+      "voice": "bm_daniel",
+      "textSha256": "63eecb05a47f5c3f61695273f468df24976b544b79bc6576c7d56cfc9d8c7d8c",
+      "status": "ready",
+      "audioSha256": "0bc0b2797c3d6a1467069105902d3f2ecdf6f5844749d4ca4ca2e2e11d2f548e",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 3.6053333333333333
+    },
+    "choice:stairs-listen:hands": {
+      "src": "audio/narration/choice-stairs-listen-hands-1f0713afda5e.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "1f0713afda5ebed1cc6c6f3ddbbab0e600b58152c0ea454c9b5c1849205a2966",
+      "status": "ready",
+      "audioSha256": "52ba217dfad09988bfecc988d982c6dd4edb21735ca848cfd47637dc15905d38",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 8.08
+    },
+    "choice:stairs-listen:marks": {
+      "src": "audio/narration/choice-stairs-listen-marks-69840b2c71dc.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "69840b2c71dc979f8b955be03dc7dbc162fa682f87a4d5fced00506191921687",
+      "status": "ready",
+      "audioSha256": "d76d5dcdde1d8d1c9b22f8751433b76866a917abdc20e6320b4f4afcc434cd48",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.28
+    },
+    "choice:stairs-listen:answer": {
+      "src": "audio/narration/choice-stairs-listen-answer-edf0e6738335.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "edf0e6738335596d074293bd949fa299158db81b07191326a6cafd214f967e7e",
+      "status": "ready",
+      "audioSha256": "91e6413c3a9c5fedccb4d6b87abe468b14e42c1cd36785c69444ed3be34e6de8",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 8.16
+    },
+    "page:iona-workroom:body-0": {
+      "src": "audio/narration/page-iona-workroom-body-0-dc806951df47.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "dc806951df47c27d1cc5d5721d138900bd1a246bef9c42dba4344f25a02899d1",
+      "status": "pending"
+    },
+    "page:iona-workroom:dialogue-0": {
+      "src": "audio/narration/page-iona-workroom-dialogue-0-0828c17d09d8.wav",
+      "voice": "bf_emma",
+      "textSha256": "0828c17d09d8226b66b51da186f4bf6d42b1336b5ef1c95cf0495f9002addf67",
+      "status": "ready",
+      "audioSha256": "f5bae072ab5bf2c6d902ac446f714f37a15f4241c1bb4c4a31833d252514e6f2",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 4.522666666666667
+    },
+    "choice:iona-workroom:diagram": {
+      "src": "audio/narration/choice-iona-workroom-diagram-edd6d43ae6d3.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "edd6d43ae6d34523c4aae608c136d190a277be87f6dbfee460f9b6bab87d524a",
+      "status": "ready",
+      "audioSha256": "99914dc574e37a66f4a25b187e88ddfb6e16c772763bba747631704fd94d5761",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.68
+    },
+    "choice:iona-workroom:recording": {
+      "src": "audio/narration/choice-iona-workroom-recording-b6cce3f82178.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "b6cce3f82178af59fe14ed0c6b0556c7252728d2414f455cb70aee34da68c031",
+      "status": "ready",
+      "audioSha256": "3fa1385a54aa81230169e94c9a9d0e21c52b295d12b7fb4adb580b6877d24044",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 8.4
+    },
+    "choice:iona-workroom:follow": {
+      "src": "audio/narration/choice-iona-workroom-follow-0e06b453956e.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "0e06b453956e4ef938d696167c1015bc7466a11538a4d0cde53ce8ad4111f58e",
+      "status": "ready",
+      "audioSha256": "136660944aaea8e7925793453c107612d3a37faa86c8cb93f892738a40a639cf",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.92
+    },
+    "page:bellwrought-room:body-0": {
+      "src": "audio/narration/page-bellwrought-room-body-0-25c062eaf5e5.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "25c062eaf5e57f571b1afce24e0ff5d22b127fb3a89908e0dec387958e310e13",
+      "status": "pending"
+    },
+    "page:bellwrought-room:dialogue-0": {
+      "src": "audio/narration/page-bellwrought-room-dialogue-0-d4978f108bb7.wav",
+      "voice": "am_onyx",
+      "textSha256": "d4978f108bb783846783f929066a7f8c0fd6a9e0595075c3e5883f0929adae0e",
+      "status": "ready",
+      "audioSha256": "26efc6a43e867850fe923229d10386c0186d635b3ad500a873418cf12b7648d2",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 2.9226666666666667
+    },
+    "choice:bellwrought-room:book": {
+      "src": "audio/narration/choice-bellwrought-room-book-f7f5c4d97fa8.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "f7f5c4d97fa8f0d727f9afbe4abfedc689bd229ca4eec8945bef59350334f83c",
+      "status": "pending"
+    },
+    "choice:bellwrought-room:muffle": {
+      "src": "audio/narration/choice-bellwrought-room-muffle-3ab729751ebf.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "3ab729751ebf8a2725770868ddd305511a023562c8059e97f77a29c9e711aa3c",
+      "status": "ready",
+      "audioSha256": "33f18e9c2075a7fcd373014c40126b013d4472a74cc4d1f8333304b8fea78fe9",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.92,
+      "normalizationVersion": 2
+    },
+    "choice:bellwrought-room:open": {
+      "src": "audio/narration/choice-bellwrought-room-open-a5d2136e3cb3.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "a5d2136e3cb3f01b9161e3969e2ee603d40f4acdfa65af1d17ea00a150ef6302",
+      "status": "ready",
+      "audioSha256": "68174b02dc7e5bbe3c1a073fda959294f54576be3281b9617f894705091d840f",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 8.32
+    },
+    "page:cellar-covenant:body-0": {
+      "src": "audio/narration/page-cellar-covenant-body-0-918ad6e51a18.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "918ad6e51a185172a26f0e618096d525a23b56c39461027b0f2fe0ed1b6f2742",
+      "status": "pending"
+    },
+    "page:cellar-covenant:dialogue-0": {
+      "src": "audio/narration/page-cellar-covenant-dialogue-0-956dfb9cbb29.wav",
+      "voice": "af_heart",
+      "textSha256": "956dfb9cbb290700587c8b62b2863475703408a76749d3b251fe1628cde84878",
+      "status": "ready",
+      "audioSha256": "311bb76b180d5ea37510a4e64f4a428b74303617cc79e8705a310169ca0948ea",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 4.352
+    },
+    "choice:cellar-covenant:original": {
+      "src": "audio/narration/choice-cellar-covenant-original-84d2a97dde6c.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "84d2a97dde6c176bf84b84018e5e4704f90c3bd90385e6ffaeae19455833ab23",
+      "status": "ready",
+      "audioSha256": "41f8d798b780f189698a1bcc3a43fde4a063c44c72d1c25de81d66e4afe7ff4b",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.76
+    },
+    "choice:cellar-covenant:tokens": {
+      "src": "audio/narration/choice-cellar-covenant-tokens-8a8e60e139ea.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "8a8e60e139ea94e864944965def4e223cb7318c729d420fcfcfdbf5958c8ac46",
+      "status": "ready",
+      "audioSha256": "8aff1f478f7531e678b1c1554db25ceed563b7af48314ef8ef026b84293113a9",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.68
+    },
+    "choice:cellar-covenant:tunnel": {
+      "src": "audio/narration/choice-cellar-covenant-tunnel-7f994a5038b6.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "7f994a5038b634bdbff77164f6dba2fea1e2b9b1d3dc28307d7920dfa4a414bd",
+      "status": "pending"
+    },
+    "page:grave-count:body-0": {
+      "src": "audio/narration/page-grave-count-body-0-5333c60171fc.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "5333c60171fcb7f30cc4f82828bb71b0a68813df377b74f3487af4670fa2a26e",
+      "status": "pending"
+    },
+    "page:grave-count:body-1": {
+      "src": "audio/narration/page-grave-count-body-1-28bf1f5ae9b1.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "28bf1f5ae9b1b56d0336a825c08aae685d2eb5c8008c111ca9fc89a5ffd26c81",
+      "status": "ready",
+      "audioSha256": "68df072113824b862ca500e2d023afcb03905cf243b5c538fca3d6c8eb88839f",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 22.96
+    },
+    "page:grave-count:dialogue-0": {
+      "src": "audio/narration/page-grave-count-dialogue-0-aa765c9a3825.wav",
+      "voice": "af_heart",
+      "textSha256": "aa765c9a38250a933ae75e3b228b09e654ed12b2edde20a388f6d078dcb216f3",
+      "status": "ready",
+      "audioSha256": "fa560f702458d3ee375c4207d6abee5d0b2ec1971e95a16c9f63faebaf68f0d1",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 3.562666666666667
+    },
+    "choice:grave-count:names": {
+      "src": "audio/narration/choice-grave-count-names-1ee4a95588d5.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "1ee4a95588d54df8254f014322e045f7d97597be9b9511920d0e38822896bf08",
+      "status": "pending"
+    },
+    "choice:grave-count:bell": {
+      "src": "audio/narration/choice-grave-count-bell-cf1968eaa89e.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "cf1968eaa89ee9d5c794188aac63b047415ed7281ebabaf07ba1887255fd098b",
+      "status": "ready",
+      "audioSha256": "421eba6f03db72500565921fa3bc104e13fc3f31c524ea55c3a6282bf7bb2659",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.52
+    },
+    "choice:grave-count:knocking": {
+      "src": "audio/narration/choice-grave-count-knocking-a688d6b48cc8.wav",
+      "status": "ready",
+      "voice": "qn_lorath_refined",
+      "textSha256": "a688d6b48cc89ca2a01fd512d1cd12afde05f19821f548e87963648fbd58790b",
+      "audioSha256": "054244cee3bf3d99013ceb3bc00a7597ea21cd1d9910d594f04aa7dc0df3e196",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.2,
+      "normalizationVersion": 3
+    },
+    "page:sexton-water:body-0": {
+      "src": "audio/narration/page-sexton-water-body-0-1fd8ad3a771c.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "1fd8ad3a771c0c2db27f3911c370b23b7e1bb12a29ac5f7d9a69cd8104d0f956",
+      "status": "pending"
+    },
+    "page:sexton-water:body-1": {
+      "src": "audio/narration/page-sexton-water-body-1-d149b20958a3.wav",
+      "status": "ready",
+      "voice": "qn_lorath_refined",
+      "textSha256": "d149b20958a31704c3ef3cca8c714b0621023a818b7d6d3b3330fc9be09e5365",
+      "audioSha256": "a1b93efaf5d50678a6df24e298722dd11307981e1315a5668058be5d2c7236e6",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "normalizationVersion": 2,
+      "durationSeconds": 22.08
+    },
+    "page:sexton-water:dialogue-0": {
+      "src": "audio/narration/page-sexton-water-dialogue-0-b4a430f436b1.wav",
+      "voice": "bm_daniel",
+      "textSha256": "b4a430f436b1a89e9033d6d329e64208bd140a6662c639877e007942ff7f5cce",
+      "status": "ready",
+      "audioSha256": "fa8f4e121852b11292a29188e57602c9833f64f86fc06efe93466ba3686f2b33",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 3.776
+    },
+    "choice:sexton-water:slate": {
+      "src": "audio/narration/choice-sexton-water-slate-116a6c7989dc.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "116a6c7989dca2c6365aec71126075861d197db862239767f9a8ae97613ebe9c",
+      "status": "ready",
+      "audioSha256": "8dbe16723a92f7fdefa102ff5d07a716fcb8a07d1f83832a0d171343176be596",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 8.56
+    },
+    "choice:sexton-water:chain": {
+      "src": "audio/narration/choice-sexton-water-chain-2b3d83bc6883.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "2b3d83bc6883c76a80812669e2a560aaed1d8d3160ec81bfd034d85f4fdfff21",
+      "status": "ready",
+      "audioSha256": "cce96a8c81c396768437de2178582ab9757589a2282072e65dff572e63b896d1",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 8.8
+    },
+    "choice:sexton-water:truth": {
+      "src": "audio/narration/choice-sexton-water-truth-30fb47a74d0d.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "30fb47a74d0dcda657be0907bc362ebc8c64fdb0d16705166700bde191a182ed",
+      "status": "ready",
+      "audioSha256": "0d54745408a49018fb8ee9ad529d4432fd6abadd162f28c714ce64c42e8c2006",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.68
+    },
+    "page:cantor-threshold:body-0": {
+      "src": "audio/narration/page-cantor-threshold-body-0-46b551b43098.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "46b551b43098a35b31de71f318746242eb910b1cb5e12cad4add7c0013c7583e",
+      "status": "ready",
+      "audioSha256": "973d4c13adb80967c1527d27f592b189efe9bb2770270aaa0bc5ca4ac28ff73a",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 48.64004166666667
+    },
+    "page:cantor-threshold:body-1": {
+      "src": "audio/narration/page-cantor-threshold-body-1-d2b60cb5aec4.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "d2b60cb5aec47df09109b17cfea6a2c1bc1a636be92c3743669c760557951f1e",
+      "status": "pending"
+    },
+    "page:cantor-threshold:dialogue-0": {
+      "src": "audio/narration/page-cantor-threshold-dialogue-0-3f92be7d3286.wav",
+      "voice": "am_adam",
+      "textSha256": "3f92be7d328607bccbaa34c0175714a0f652e0cdd8e26a1a5b628eebee6d09f4",
+      "status": "ready",
+      "audioSha256": "bf49cd8505fd3b57302f13bd77a584a1a0a613b23a73d810dbc08648188122d7",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 3.1786666666666665
+    },
+    "choice:cantor-threshold:verse": {
+      "src": "audio/narration/choice-cantor-threshold-verse-456e6a8f0a9c.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "456e6a8f0a9ca48cfbabc863d28f86925be33dc6c1ba0cca5f7be1709f85ac6e",
+      "status": "ready",
+      "audioSha256": "e048de05664b8f7ff1990478b42c1d02e9d5ea0ac7ac898db851f38825c7ad0f",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 8.56
+    },
+    "choice:cantor-threshold:discord": {
+      "src": "audio/narration/choice-cantor-threshold-discord-5acac6dd8440.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "5acac6dd8440743d9eba580e1166e850f74b98cea3f03daa7857d31a181699d7",
+      "status": "ready",
+      "audioSha256": "f900b44ecaa3171f7a12109ac6340cfed4c7c25bb9ecc54955db5dc0e4c4dcd9",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.2
+    },
+    "choice:cantor-threshold:iona": {
+      "src": "audio/narration/choice-cantor-threshold-iona-afa66e7635f5.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "afa66e7635f537e9830fc76cfa2888cb9765781c254522a5ad93fef28b7f577a",
+      "status": "ready",
+      "audioSha256": "2341a73beb9e3eb02d591811bc8be670b3ac620caf04470d0d442e1b21136ae0",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 8.88
+    },
+    "page:bone-orchard:body-0": {
+      "src": "audio/narration/page-bone-orchard-body-0-f957438c32ba.wav",
+      "status": "ready",
+      "voice": "qn_lorath_refined",
+      "textSha256": "f957438c32ba1cec596a04bdc26ec801da77fda4cb3be0b14f68c0e3de3617d6",
+      "audioSha256": "6b844694e42062694d3dc0116b585ea289832c81830cbaa2a3ea87dd62b39cb5",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "normalizationVersion": 2,
+      "durationSeconds": 49.84
+    },
+    "page:bone-orchard:dialogue-0": {
+      "src": "audio/narration/page-bone-orchard-dialogue-0-7e4f87f72bff.wav",
+      "voice": "bm_daniel",
+      "textSha256": "7e4f87f72bffac118d6ff22699549c75ffc301133d3f6143cdcab2507d7b9325",
+      "status": "ready",
+      "audioSha256": "da11046501668533280096bdfe99df09f28a15784dc0da4138a6601762448d5e",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 3.456
+    },
+    "choice:bone-orchard:all": {
+      "src": "audio/narration/choice-bone-orchard-all-aba38989d62f.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "aba38989d62fe273afaf478e2e1ed02113557bc4093405634f16c1aa6f76b56f",
+      "status": "ready",
+      "audioSha256": "ad6f25e8d7d3e588c69d4933c158f12e278e9dfcad01c39a90db7e2a06deb35b",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.6
+    },
+    "choice:bone-orchard:scarecrow": {
+      "src": "audio/narration/choice-bone-orchard-scarecrow-9408327b96e2.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "9408327b96e2cfacef5dda15fe9e9f403f41519cdc8e970d0aa17c223df1d473",
+      "status": "ready",
+      "audioSha256": "bb9a485f8442c79f8023b7cbd81f23a66e760259941b0484d6769ffd48852491",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 8.24
+    },
+    "choice:bone-orchard:eye": {
+      "src": "audio/narration/choice-bone-orchard-eye-6e11258438f5.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "6e11258438f5e0e10795386e43e8914601e31f21705d417d6011ac1b4cf03092",
+      "status": "ready",
+      "audioSha256": "569a337c36d944f6e141ac6a71afe9498671d22d705126ca3f473f00d552f1d1",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.76
+    },
+    "page:unclaimed-room:body-0": {
+      "src": "audio/narration/page-unclaimed-room-body-0-19cc8b91ac2a.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "19cc8b91ac2add06dd41b2937f5b2654a1b4be13f06ab4adac116caac1c67a3f",
+      "status": "pending"
+    },
+    "page:unclaimed-room:body-1": {
+      "src": "audio/narration/page-unclaimed-room-body-1-ae62a19ed672.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "ae62a19ed672b90a00f49196359d05a767adbac1aae75edab44c8e8588f5e4b9",
+      "status": "pending"
+    },
+    "page:unclaimed-room:dialogue-0": {
+      "src": "audio/narration/page-unclaimed-room-dialogue-0-2119e0be5408.wav",
+      "voice": "af_heart",
+      "textSha256": "2119e0be5408b5dd2539db2d7760e4f6d2a5967ddd67d5b811ca5b6dd7959e14",
+      "status": "ready",
+      "audioSha256": "6c05aa360e608151b12a88f5d4f2bf89dcb64572f56b6efd3ac95bb177aa6b43",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 4.032
+    },
+    "choice:unclaimed-room:letters": {
+      "src": "audio/narration/choice-unclaimed-room-letters-25ddf22feccc.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "25ddf22feccc16bfc7fdfbcabc8fe23eb4f0a0aca101c0731ee1929bb47b2b66",
+      "status": "ready",
+      "audioSha256": "1827d88ee7d53d543423a072b99669a7912e353c3a32659884ea02a2317b8c1c",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 9.12
+    },
+    "choice:unclaimed-room:register": {
+      "src": "audio/narration/choice-unclaimed-room-register-fe04717f1258.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "fe04717f1258805e398a83a582e78fcc18e79af0923067549ed1295c599f9710",
+      "status": "ready",
+      "audioSha256": "c96fbbf3334ab3e11348ed92924f1df88d570c0220d9087502f27faab2a94268",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 9.92
+    },
+    "choice:unclaimed-room:door": {
+      "src": "audio/narration/choice-unclaimed-room-door-d157bf869112.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "d157bf8691121881db7781ccf3d2b2c98c08a942dc03652faf8f415c7860aac8",
+      "status": "ready",
+      "audioSha256": "c38c88acb1b164e79ffcd7f5d769bdf03cb9eda7c6bb52c4a48c4452692297b9",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.76
+    },
+    "page:river-letter:body-0": {
+      "src": "audio/narration/page-river-letter-body-0-fa0869f87dba.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "fa0869f87dba69d539782d812ab6de59d9a33f23c406dca3334c41e98f3af170",
+      "status": "pending"
+    },
+    "page:river-letter:body-1": {
+      "src": "audio/narration/page-river-letter-body-1-fdc157696e92.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "fdc157696e92c2a37b28693a28ad343990805c033bf377d036aff9d57fd52231",
+      "status": "pending"
+    },
+    "page:river-letter:dialogue-0": {
+      "src": "audio/narration/page-river-letter-dialogue-0-1024583f62dd.wav",
+      "voice": "bm_daniel",
+      "textSha256": "1024583f62dd805ad482b6ac39d46ee6692e8511fc49152aaad5353349d2af15",
+      "status": "ready",
+      "audioSha256": "6269418ad47357d97bc06bb0b344da99eb01ab66cee0559e3070b30987052fe7",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 4.117333333333334
+    },
+    "choice:river-letter:nell": {
+      "src": "audio/narration/choice-river-letter-nell-55040b507632.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "55040b507632314219b9f355022b285d149ec0a747c544168103aa59a746e35f",
+      "status": "ready",
+      "audioSha256": "1f7adbf6de53c574e398925f2e2e6724954360c2dab0d1c3537add419e6ee956",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.84
+    },
+    "choice:river-letter:crossing": {
+      "src": "audio/narration/choice-river-letter-crossing-857ab63f0172.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "857ab63f0172d61fcfa04c462fb7f74cdefc12e8beec1ad1d7f5b6fa37144c15",
+      "status": "ready",
+      "audioSha256": "78c0a05c9c12959e182da0aea95acb00ff63ae18fd6d12568992c51f1651e6dd",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.76
+    },
+    "choice:river-letter:light": {
+      "src": "audio/narration/choice-river-letter-light-0b9c53b58bda.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "0b9c53b58bda4029f9545f93f13c341c9d76fd25e12368964038eaf728f24f60",
+      "status": "ready",
+      "audioSha256": "a268449c0f44ca196bf8bd3837cb765a0bed20470cbb730c5bf2f4186972532e",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 6.48
+    },
+    "page:quiet-coffin:body-0": {
+      "src": "audio/narration/page-quiet-coffin-body-0-aca51979eeff.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "aca51979eeff5a2fa1151d947837fecae80ce49ab0f8fdef83d8287ad6b5e600",
+      "status": "pending"
+    },
+    "page:quiet-coffin:body-1": {
+      "src": "audio/narration/page-quiet-coffin-body-1-c1cd4a93301c.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "c1cd4a93301cedb954ca029ea87068a0ae9f1b002604feb8cb81ef32e777314e",
+      "status": "ready",
+      "audioSha256": "76cd86dace750204b300ae161e3c794291f242a3f3a37b7475dbfa589eb117e4",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 21.92
+    },
+    "page:quiet-coffin:dialogue-0": {
+      "src": "audio/narration/page-quiet-coffin-dialogue-0-47743dc5f49e.wav",
+      "voice": "am_onyx",
+      "textSha256": "47743dc5f49eedab496df3dc73a4f75d7e49678e7d7875dbe1a476e8caf8f883",
+      "status": "ready",
+      "audioSha256": "7ea842a2300817acb3fcb7f15d203cdbd9abbc87c8b8947b836664699cd87a3b",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 3.84
+    },
+    "choice:quiet-coffin:return": {
+      "src": "audio/narration/choice-quiet-coffin-return-686811976972.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "68681197697247d12ae285ddf09082107698b04d57d8016769c5f0f793c35f79",
+      "status": "ready",
+      "audioSha256": "90fbd31d1c9fd034078e5446a92ef3a9db36533ebdefe6173c9852fc3049a4a8",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 6.88
+    },
+    "choice:quiet-coffin:record": {
+      "src": "audio/narration/choice-quiet-coffin-record-d6acfe54a1c4.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "d6acfe54a1c4dc15b51475a496b07e24dde82b9a4eb620bac16e4eb2901573ab",
+      "status": "ready",
+      "audioSha256": "9de10b09374d8c6302410836f6876f58507ecc1e61172c43d9f2ce7c8230195d",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.52
+    },
+    "choice:quiet-coffin:stand": {
+      "src": "audio/narration/choice-quiet-coffin-stand-97eff28e21f0.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "97eff28e21f01303f0d15a890d6a48f3468c6a5d6e0fbffc62e49bb34613fef4",
+      "status": "ready",
+      "audioSha256": "f01846724ec389ec1b88ed4983ac0529351dad57a00f9f51434b9eed410f306e",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.52
+    },
+    "page:castle-road:body-0": {
+      "src": "audio/narration/page-castle-road-body-0-6d5cc4298c26.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "6d5cc4298c26384342b1e84fd0a5285f4bb617518ac0fbea8fcc1af6c73c2ab0",
+      "status": "pending"
+    },
+    "page:castle-road:body-1": {
+      "src": "audio/narration/page-castle-road-body-1-fcbaa9e1079e.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "fcbaa9e1079eb9e91dca20d1a8ee40cdfa106d5bd0c3ca33c5b4b16598f4debf",
+      "status": "pending"
+    },
+    "page:castle-road:dialogue-0": {
+      "src": "audio/narration/page-castle-road-dialogue-0-377bff323b7b.wav",
+      "voice": "af_heart",
+      "textSha256": "377bff323b7b19dddbc684c28c69f9b7611ab4e9fc3a4495b48ffe4be53cb927",
+      "status": "ready",
+      "audioSha256": "1f7fd54bb8f9ebcd3ae16ab09095f902b4d8a8d239b0530108d202f68df10ca5",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 3.1146666666666665
+    },
+    "choice:castle-road:footsteps": {
+      "src": "audio/narration/choice-castle-road-footsteps-326024324162.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "326024324162499297a333c3039185693a617fe49b6beee8202d9a971165bec7",
+      "status": "pending"
+    },
+    "choice:castle-road:message": {
+      "src": "audio/narration/choice-castle-road-message-86eb1287a751.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "86eb1287a7510bde946b6d48558e333943b87fe2d26cffe7f38ddecc9f467740",
+      "status": "ready",
+      "audioSha256": "e183146c0f0b27215f332cbf8045d7f395a9a67e1f78f2f0b894cd3c551a16a6",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 8.88
+    },
+    "choice:castle-road:gate": {
+      "src": "audio/narration/choice-castle-road-gate-92182ca14904.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "92182ca14904a7b2db846d579f2850b493114b29a806d7e5ca912338c0b87623",
+      "status": "ready",
+      "audioSha256": "8a1f4659bbd114e0f0d327b2f90e4290357d1af00cf5ec221d8f87b78c145bd3",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 9.12
+    },
+    "page:king-audience:body-0": {
+      "src": "audio/narration/page-king-audience-body-0-e9305c43a9a1.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "e9305c43a9a1c58a6856c164f078a1f49284e1a15d8762202a242f23179f9f98",
+      "status": "pending"
+    },
+    "page:king-audience:body-1": {
+      "src": "audio/narration/page-king-audience-body-1-c074ecf811ca.wav",
+      "status": "ready",
+      "voice": "qn_lorath_refined",
+      "textSha256": "c074ecf811ca16fdd00dcbea273c005819da6137e6250eb0d8243c22726353f6",
+      "audioSha256": "9697c15c7e61b0d57042315605ab25fa0fbc991dc5740b5d831ba635fbe3416d",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "normalizationVersion": 2,
+      "durationSeconds": 19.2
+    },
+    "page:king-audience:dialogue-0": {
+      "src": "audio/narration/page-king-audience-dialogue-0-2067b5d78882.wav",
+      "voice": "bm_george",
+      "textSha256": "2067b5d7888263422c639c1903ba92287b5e330c03f32f3ca787ee540a3bb606",
+      "status": "ready",
+      "audioSha256": "a78ea164054e99902d6e06c6c8b248950633c0a51a40b44580edb952bbe41403",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 3.648
+    },
+    "choice:king-audience:truth": {
+      "src": "audio/narration/choice-king-audience-truth-782a8044252a.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "782a8044252a6f6216d8696f48a7d3d44fa661532951a0d02fca81a7b1f3c5c2",
+      "status": "pending"
+    },
+    "choice:king-audience:children": {
+      "src": "audio/narration/choice-king-audience-children-2d26e8222a5f.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "2d26e8222a5fdc729a093976a2dd299ca2dc7e2f160182f076ef2414aa9b857a",
+      "status": "ready",
+      "audioSha256": "19aec3291111fe161e9044843b8fdc4c83d8e66559a2861df2097254d991c916",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 8.4
+    },
+    "choice:king-audience:terms": {
+      "src": "audio/narration/choice-king-audience-terms-c55ec279fef2.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "c55ec279fef2ffef85cf7e967063227e27415c82c479e893b0796fd4a6322765",
+      "status": "ready",
+      "audioSha256": "7193d8952c6f07939dc662cb99d1e86d3fcf3cf70e7e1a4e4995a74368720b4b",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 8
+    },
+    "page:sleepers-gallery:body-0": {
+      "src": "audio/narration/page-sleepers-gallery-body-0-4be0bf05f47f.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "4be0bf05f47fef88919387a860bffd9fd749b3af0bbbcc7a71f2e784b983301d",
+      "status": "pending"
+    },
+    "page:sleepers-gallery:body-1": {
+      "src": "audio/narration/page-sleepers-gallery-body-1-f34ac707a585.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "f34ac707a585ecbd44468b76effc205d2ce64f17a3ca9cf865238cd9bb4803a4",
+      "status": "ready",
+      "audioSha256": "0ea52e96128f6dc4630dfe3755742e30a3739f3a04e754e2a4cea02d0cec33a9",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 25.76
+    },
+    "page:sleepers-gallery:dialogue-0": {
+      "src": "audio/narration/page-sleepers-gallery-dialogue-0-f94929a67d64.wav",
+      "voice": "bf_emma",
+      "textSha256": "f94929a67d6481e1eddcbe6f12f9c906161eace9c6d92d1525051f9dfb3589fe",
+      "status": "ready",
+      "audioSha256": "5a57ed85fd5eddfab01d28e1854a9dacd5e8c0c1e2c8d955fbdab4e922bd7986",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 3.989333333333333
+    },
+    "choice:sleepers-gallery:future": {
+      "src": "audio/narration/choice-sleepers-gallery-future-1e649d1e681d.wav",
+      "status": "ready",
+      "voice": "qn_lorath_refined",
+      "textSha256": "1e649d1e681daaa69fce7dce0a5caf0cb38c7b2f3d1e868df31bd4e66840d9e9",
+      "audioSha256": "2593c8ec5ab6e47c1f131212fe5eb47c55fa0777817e2f7514c6d38adc0ae2bb",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "normalizationVersion": 2,
+      "durationSeconds": 6.96
+    },
+    "choice:sleepers-gallery:windows": {
+      "src": "audio/narration/choice-sleepers-gallery-windows-82e8a7748c95.wav",
+      "status": "ready",
+      "voice": "qn_lorath_refined",
+      "textSha256": "82e8a7748c95c6578c3ba037b66b5c2e1a456a8dc81c5069fbf6fd66191d3e71",
+      "audioSha256": "970a4867578560c1c89163e2ada7d3ab87a156f82aa3a6a96de7ea411b189580",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "normalizationVersion": 2,
+      "durationSeconds": 8.48
+    },
+    "choice:sleepers-gallery:names": {
+      "src": "audio/narration/choice-sleepers-gallery-names-4987926e83cb.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "4987926e83cbfe3189f513b59fc85d2e8aa9d79e779f4b3fb47d867654b5bc8a",
+      "status": "ready",
+      "audioSha256": "11b57182a8ae55f5cf25a28c8028fdf2577603a24b34b386996c1810976a0297",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 6.88
+    },
+    "page:iona-clock:body-0": {
+      "src": "audio/narration/page-iona-clock-body-0-a4ac6e396bdd.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "a4ac6e396bddf013343f5835913a12dcdb4b6d398b27be8eb451fab598dc28ba",
+      "status": "pending"
+    },
+    "page:iona-clock:body-1": {
+      "src": "audio/narration/page-iona-clock-body-1-35c9c3939aba.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "35c9c3939aba935f7ff93293ab120dfb9b6856f0032b9d94c6142894a7942d61",
+      "status": "ready",
+      "audioSha256": "799716c995b0d952bcb95a88fd90a087e250d3a86fc68c0f15258db38dc24ccd",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 23.52
+    },
+    "page:iona-clock:dialogue-0": {
+      "src": "audio/narration/page-iona-clock-dialogue-0-086ebc3baa67.wav",
+      "voice": "bf_emma",
+      "textSha256": "086ebc3baa672d55c53a0e0c7efd1e36b78bff514a181ce69001470a22a40799",
+      "status": "ready",
+      "audioSha256": "966eb706ece196ef9e55c87d2eedb1679d7b5d19d91574160d9a68e416730968",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 4.352
+    },
+    "choice:iona-clock:watch": {
+      "src": "audio/narration/choice-iona-clock-watch-af0efd80e45a.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "af0efd80e45ace7c3f4808ffa8361a210c3efdcaa62c5ef223abba04de012ac8",
+      "status": "ready",
+      "audioSha256": "57c425dbd5832d228d9553c52b069aec656a7381684edd3ba58c3093b878e4e4",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 9.280041666666667
+    },
+    "choice:iona-clock:clock": {
+      "src": "audio/narration/choice-iona-clock-clock-9c211f0ab0f4.wav",
+      "status": "ready",
+      "voice": "qn_lorath_refined",
+      "textSha256": "9c211f0ab0f4c6c920ce9a70e943d03f3ca546bf32d33137d18b60e97dd7a12a",
+      "audioSha256": "2f9522a7847e84eecd9c2fca099a104a46f78fd83c1518c381057eb38f82312b",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.76,
+      "normalizationVersion": 3
+    },
+    "choice:iona-clock:plan": {
+      "src": "audio/narration/choice-iona-clock-plan-200f3c04d31f.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "200f3c04d31f7b8659cc8394c26b95ed730e9563e68e699f2d709d32fc514383",
+      "status": "ready",
+      "audioSha256": "8f49e32addc5a307998260fa881848fcfa0e2ec0618cc4d316089ff01aae16a3",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 9.2
+    },
+    "page:widow-doors:body-0": {
+      "src": "audio/narration/page-widow-doors-body-0-0217bae78610.wav",
+      "status": "ready",
+      "voice": "qn_lorath_refined",
+      "textSha256": "0217bae78610a498271dc5b4b1ed35c3c3762cc6304e5804132c0da3903d9b86",
+      "audioSha256": "63854da22fe101760d8944e0dcef393e96c7983f2253467951172d5b61ab67e7",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "normalizationVersion": 2,
+      "durationSeconds": 50.00004166666667
+    },
+    "page:widow-doors:body-1": {
+      "src": "audio/narration/page-widow-doors-body-1-a5bdaf273ec1.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "a5bdaf273ec1a638e7f9b2c4708e11f7bafbf11c206a203bf8ceccbf97c1c0cd",
+      "status": "ready",
+      "audioSha256": "f574e80e88f2f87ceaba00b6918e667e7277b1605af88c59b3abb5a22b2e8090",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 26.56
+    },
+    "page:widow-doors:dialogue-0": {
+      "src": "audio/narration/page-widow-doors-dialogue-0-7f7e3418583f.wav",
+      "voice": "af_kore",
+      "textSha256": "7f7e3418583fe2cba49f39f80426c271c652a82bcb302b84fc32b8f2c195bd28",
+      "status": "ready",
+      "audioSha256": "788975197c0dcb6077af716e0f4e63ef40c415dc98889dc2cde910d35468d8aa",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 3.904
+    },
+    "choice:widow-doors:witness": {
+      "src": "audio/narration/choice-widow-doors-witness-11677ae20185.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "11677ae201850d6eb18307ee625ad345a9a978d50e11fcd9e4ed35978d23edb7",
+      "status": "pending"
+    },
+    "choice:widow-doors:release": {
+      "src": "audio/narration/choice-widow-doors-release-985d3717ff65.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "985d3717ff6507e007e136fdf30b8c37f742017a3b505522510323172ce9a62f",
+      "status": "ready",
+      "audioSha256": "b2d2cdf6041f5b751b64da65e62e2d73adb6eb7263e9023f0c27b9dae45e8240",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 8.48
+    },
+    "choice:widow-doors:crown": {
+      "src": "audio/narration/choice-widow-doors-crown-45d978f2c577.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "45d978f2c577a018f52aaa2c982cbc5c4371ad5be6033a759546f2cb82e746f9",
+      "status": "ready",
+      "audioSha256": "5b4eb3c20f01c06f7ba60dbd40969128eeda0544b3d63ffbe33dd6719d828f13",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.84
+    },
+    "page:cantor-court:body-0": {
+      "src": "audio/narration/page-cantor-court-body-0-8d1466b477c2.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "8d1466b477c26a8780fc0fecc169dd51b216dad2cc75b9f6d6dcee4a8d21d5bf",
+      "status": "pending"
+    },
+    "page:cantor-court:body-1": {
+      "src": "audio/narration/page-cantor-court-body-1-a6e443a7fc70.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "a6e443a7fc70717dd331b6ba1be07f4877574f823b3141b82e4a6b512f67bb42",
+      "status": "pending"
+    },
+    "page:cantor-court:dialogue-0": {
+      "src": "audio/narration/page-cantor-court-dialogue-0-2562eb424609.wav",
+      "voice": "am_adam",
+      "textSha256": "2562eb4246095e0eb18454e5c44f543532ac4814308f92e1ff8ad6291e764680",
+      "status": "ready",
+      "audioSha256": "ac13ab4848da15b1ad3ffcd6d48858328bb6d056b958d8c6aa9b85f4960b5ff6",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 3.6906666666666665
+    },
+    "choice:cantor-court:letters": {
+      "src": "audio/narration/choice-cantor-court-letters-130aef196d2a.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "130aef196d2a6546c8c126ca65338ada64456ac6108883fcd5c5d6a51eb50b02",
+      "status": "ready",
+      "audioSha256": "0075fdfc14de91e1f5ec84764a72e862c1fbc709c4125526bf6ce8bdb83b9964",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.84
+    },
+    "choice:cantor-court:window": {
+      "src": "audio/narration/choice-cantor-court-window-a483fdc442d6.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "a483fdc442d6a8026e675e8f9c1499718ef6618f6d50626d6d7be33d93a485ce",
+      "status": "ready",
+      "audioSha256": "41d359e6a147ad4b9f4e5d3e3e9b50cbc935c3e087d16a25b06093a0de9bc2e2",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 9.76
+    },
+    "choice:cantor-court:silence": {
+      "src": "audio/narration/choice-cantor-court-silence-9685eb997d00.wav",
+      "status": "ready",
+      "voice": "qn_lorath_refined",
+      "textSha256": "9685eb997d0073f786278802efdb03109f4400713e1905db417b1016d38a33da",
+      "audioSha256": "f8427201a147db8161e29db4cc7cc7adc9f97b49210a73c294b7496ad2724118",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "normalizationVersion": 2,
+      "durationSeconds": 7.6
+    },
+    "page:sexton-ledger:body-0": {
+      "src": "audio/narration/page-sexton-ledger-body-0-9bf91ed8d8c5.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "9bf91ed8d8c527d5a66a020913d086d659825f53fa3474096daaf9af4174164b",
+      "status": "pending"
+    },
+    "page:sexton-ledger:body-1": {
+      "src": "audio/narration/page-sexton-ledger-body-1-791965a696cc.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "791965a696cc4c3174f216907c6ea63067bc2ce6ac8e46393f4c8c0ef0194d36",
+      "status": "pending"
+    },
+    "page:sexton-ledger:dialogue-0": {
+      "src": "audio/narration/page-sexton-ledger-dialogue-0-143c2b6c586c.wav",
+      "voice": "af_heart",
+      "textSha256": "143c2b6c586c58381da57bac451a2ee64303207d124d448f7f896983b8caa36e",
+      "status": "ready",
+      "audioSha256": "ad7d121fa9e3ac5a0f1796dfdfac2cb8907a2eadf29e0f603fdebf90599aedff",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 2.88
+    },
+    "choice:sexton-ledger:consent": {
+      "src": "audio/narration/choice-sexton-ledger-consent-f685c9691216.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "f685c96912165a849316140144507ee3994b126839ee7dd19502ffcb1b4b9fe5",
+      "status": "ready",
+      "audioSha256": "e2c4b8d8529a3aa9931d50a0327c945eac0e0ac9dc6f4162ecfb74d4cda8f191",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.12
+    },
+    "choice:sexton-ledger:nell": {
+      "src": "audio/narration/choice-sexton-ledger-nell-de4fb099bac0.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "de4fb099bac03e28e6bef215643946cf3c677bedc70401a928043cda12db2214",
+      "status": "ready",
+      "audioSha256": "799427a0ad244237b67cf1cf3047b362a30f35bcd40fd95530eb9dd6e8395c72",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 6.88
+    },
+    "choice:sexton-ledger:stamp": {
+      "src": "audio/narration/choice-sexton-ledger-stamp-671bdce84bce.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "671bdce84bce18f3bcd59ba8dfe3e89dc9d461df9bfba570b213c5f6a596314b",
+      "status": "ready",
+      "audioSha256": "6c0cc181c17a3b080c646faada714d8fa28eca89fa9949e281baaa73912247bd",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 9.52
+    },
+    "page:wolf-stair:body-0": {
+      "src": "audio/narration/page-wolf-stair-body-0-c3bbeb549ced.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "c3bbeb549ced0feb18837d33a8a6473508e4b83ec6c8d98e71d1a8b04c6c5ba8",
+      "status": "pending"
+    },
+    "page:wolf-stair:body-1": {
+      "src": "audio/narration/page-wolf-stair-body-1-90563acb1e2f.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "90563acb1e2f49f558699049b051b9f0963a3ad4bf95934a8d8fbc74622aaad1",
+      "status": "pending"
+    },
+    "page:wolf-stair:dialogue-0": {
+      "src": "audio/narration/page-wolf-stair-dialogue-0-b7dd468fede5.wav",
+      "voice": "am_onyx",
+      "textSha256": "b7dd468fede577c676a283996ae5790294c48fc5f29f929b63af5da5365d5b37",
+      "status": "ready",
+      "audioSha256": "0a1ebfa829cfc87b2ce0678fd88548ab25e3fd20fa87b16007516bb4a27f450f",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 3.392
+    },
+    "choice:wolf-stair:name": {
+      "src": "audio/narration/choice-wolf-stair-name-6a92470a63ae.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "6a92470a63aeac44cd9efeb09db432b286da11d79261a444500e191a7cc9c8f7",
+      "status": "pending"
+    },
+    "choice:wolf-stair:bell": {
+      "src": "audio/narration/choice-wolf-stair-bell-1262e445d9a5.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "1262e445d9a5add878263b4dc2445c7fc967c98a512a6d83ae359bd5ce4d0a0c",
+      "status": "ready",
+      "audioSha256": "29a0d3bc1dc522486a12eedb82146024c677ba8ce97887ac1b159680ed8c53a4",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 8.64
+    },
+    "choice:wolf-stair:crown": {
+      "src": "audio/narration/choice-wolf-stair-crown-27ec33e59c85.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "27ec33e59c859f9fe2bb708a720a62289c36eb8681c757170c7a10ae6b098830",
+      "status": "ready",
+      "audioSha256": "c5ff83c41396d2e2398770f5bba05ce89de0a4a4ce2935a61adf7ac7bf574194",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 8.64
+    },
+    "page:winter-window:body-0": {
+      "src": "audio/narration/page-winter-window-body-0-f2b212abcb52.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "f2b212abcb52a8d00a3517ff0c5ba8c46ab543e6f6a7fbb14f38f79e29694177",
+      "status": "pending"
+    },
+    "page:winter-window:body-1": {
+      "src": "audio/narration/page-winter-window-body-1-eb0a5b6391d5.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "eb0a5b6391d5baead8ea62840a99858c1bf6231f3be2995372d64f747eb64266",
+      "status": "ready",
+      "audioSha256": "673e35fa03dff2aa5148edff55f7067c40976a837a746b4fd31af94c98032e15",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 25.92
+    },
+    "page:winter-window:dialogue-0": {
+      "src": "audio/narration/page-winter-window-dialogue-0-e3c1cea017ea.wav",
+      "voice": "bm_george",
+      "textSha256": "e3c1cea017ea351db662a182a03a5b2983ee6caa0774d3efd5d85bc61eb17fa3",
+      "status": "ready",
+      "audioSha256": "7df0245b1c023b853032357da301ebd1aa6614cb4595a30ba7fe7bde5afea8cd",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 3.072
+    },
+    "choice:winter-window:remain": {
+      "src": "audio/narration/choice-winter-window-remain-8d6d8761f968.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "8d6d8761f9684ac51a1395d8ea984c1ff84452dc2da4922def04844cc15ef809",
+      "status": "ready",
+      "audioSha256": "db081237ae23b8bd3a6b9d6fff532f23b8420227a1f3d15aa87c0e37aeeb4137",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.84
+    },
+    "choice:winter-window:ending": {
+      "src": "audio/narration/choice-winter-window-ending-c4429abf5828.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "c4429abf5828546e2e60037175affb2d199fed05c917e9417834645fa01d5323",
+      "status": "ready",
+      "audioSha256": "acfdd2ab031540d6a978d888382d9712c8c2ffed4d68da18ca269c3b387580c0",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.76
+    },
+    "choice:winter-window:account": {
+      "src": "audio/narration/choice-winter-window-account-66af8c62688b.wav",
+      "status": "ready",
+      "voice": "qn_lorath_refined",
+      "textSha256": "66af8c62688b6f1e02df238e03521de74cb7bd56be3f11baf88446b3b380d4cf",
+      "audioSha256": "2438257d73f4b5e10b79c7d7d1f22e40270ea682fff5ad11eca1f123317eb97d",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "normalizationVersion": 2,
+      "durationSeconds": 9.04
+    },
+    "page:crown-chain:body-0": {
+      "src": "audio/narration/page-crown-chain-body-0-64d703eec1f6.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "64d703eec1f6be05c0f7d84695b0849dc96e770c40d4b075aa2dd5bb387ec9d7",
+      "status": "pending"
+    },
+    "page:crown-chain:body-1": {
+      "src": "audio/narration/page-crown-chain-body-1-08b037b7a646.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "08b037b7a6460e58587cb40a5e736f62e43abc4729a050e6eaa602ddf12dc708",
+      "status": "ready",
+      "audioSha256": "e97f778ccab88e95ae8f030094eeca104c93fc75954e7a74f0a3ef7ce49fe5a4",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 21.6
+    },
+    "page:crown-chain:dialogue-0": {
+      "src": "audio/narration/page-crown-chain-dialogue-0-e5756f74eb79.wav",
+      "voice": "bf_emma",
+      "textSha256": "e5756f74eb79d9843b9428d4283bb627e25e045d48308c490cdb8935b0bf9529",
+      "status": "ready",
+      "audioSha256": "8361b0a62ca63d38b7d1da4190c92c264e5161f414565fbd5c06ce0c24a3c51c",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 4.458666666666667
+    },
+    "choice:crown-chain:account": {
+      "src": "audio/narration/choice-crown-chain-account-da91768982f6.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "da91768982f6be225d637af5e605029cb067fe3de900faa7344965dd0f311d5a",
+      "status": "ready",
+      "audioSha256": "282c153a477f276d1cb181ae426c9f56e429febcb73ed5fbb4e2fabdad19831a",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.76
+    },
+    "choice:crown-chain:share": {
+      "src": "audio/narration/choice-crown-chain-share-8a1c1a634488.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "8a1c1a6344881a422eeb880c4022ee53b03b96ab8327824cff66040405a6715d",
+      "status": "ready",
+      "audioSha256": "7adc209131c225e6daa8c89d4c9622457aff6c5f864a23f51fdcd7ff581b0146",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 9.36
+    },
+    "choice:crown-chain:break": {
+      "src": "audio/narration/choice-crown-chain-break-d4572eb51f18.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "d4572eb51f1879b0ea9c6699ea8e8e2230c3d4982dd24b0c933a551bd627273c",
+      "status": "ready",
+      "audioSha256": "b3af3067a80293b2a11e81ab5e9976e972c497be52f99ed49a3a30c9e1c1a5e9",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 8.32
+    },
+    "page:names-flame:body-0": {
+      "src": "audio/narration/page-names-flame-body-0-b7ceee821c06.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "b7ceee821c06efc36bc70975069b09fe1f0863bee139f160093c5ac14a9a10c1",
+      "status": "pending"
+    },
+    "page:names-flame:body-1": {
+      "src": "audio/narration/page-names-flame-body-1-aad9243e8971.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "aad9243e897175f1e9bb4bf53bd25829ac8430f4afde40774fc43cb16331a90b",
+      "status": "ready",
+      "audioSha256": "ca2556c371540dc3e954559d87622fe97bbf9d9c185af0e6fd01f993535bb717",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 23.92
+    },
+    "page:names-flame:dialogue-0": {
+      "src": "audio/narration/page-names-flame-dialogue-0-eae163f30263.wav",
+      "voice": "af_heart",
+      "textSha256": "eae163f30263153a6d8424a5f30ffd381fda69349e463678ed70044340d2fdf0",
+      "status": "ready",
+      "audioSha256": "6d08311df0f0877f6dc865b7b4714889a146b501f4cb21e3a5521c46d56245b8",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 4.352
+    },
+    "choice:names-flame:distinguish": {
+      "src": "audio/narration/choice-names-flame-distinguish-d9258178102c.wav",
+      "status": "ready",
+      "voice": "qn_lorath_refined",
+      "textSha256": "d9258178102c7b999c1044106060423c3a490eac27f4c82e4c980b22169ef4cb",
+      "audioSha256": "16775558a88b1376db3087ea1b19d79dfc4ea1c330192429d04e69a1c78e9cfe",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "normalizationVersion": 2,
+      "durationSeconds": 6.96
+    },
+    "choice:names-flame:return": {
+      "src": "audio/narration/choice-names-flame-return-2ced5d8bb1fe.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "2ced5d8bb1fefd57eedc13394566246ca9ccdb4c3752934a3e594356731b1a99",
+      "status": "ready",
+      "audioSha256": "5c53eb799570131f815540688926e92009834989021552c716914d53da84db53",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.040041666666666
+    },
+    "choice:names-flame:end": {
+      "src": "audio/narration/choice-names-flame-end-9c2812f7f339.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "9c2812f7f3391150516b6e10f194e2ffdd33f00cbbe2e31572bd8bc51b32fb5e",
+      "status": "pending"
+    },
+    "page:home-handles:body-0": {
+      "src": "audio/narration/page-home-handles-body-0-cbb0e22a4945.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "cbb0e22a49453450ccf13742bf4a916a5da4c7f7121ad7a79dfa7f14d6ea0f15",
+      "status": "pending"
+    },
+    "page:home-handles:body-1": {
+      "src": "audio/narration/page-home-handles-body-1-29b26ee14961.wav",
+      "status": "ready",
+      "voice": "qn_lorath_refined",
+      "textSha256": "29b26ee14961aa443a9639d1061d8f783a275a05e623a0173f4ba73b14cc836c",
+      "audioSha256": "1b7bd430001a3aecbcd27da82b81c8926a6d3452101f4ac2b574bc70590c31e8",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "normalizationVersion": 2,
+      "durationSeconds": 23.76
+    },
+    "page:home-handles:dialogue-0": {
+      "src": "audio/narration/page-home-handles-dialogue-0-fd978ad52644.wav",
+      "voice": "af_heart",
+      "textSha256": "fd978ad5264496f6f2a052fecbf2814a6b9087db6e504beb2fcfca8964d4cdf1",
+      "status": "ready",
+      "audioSha256": "b4555be2d91ff1675c10524c19e176ec1884b14dcc077e4a9c9b379ef597e330",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 5.013333333333334
+    },
+    "choice:home-handles:show": {
+      "src": "audio/narration/choice-home-handles-show-763ef8a35d6a.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "763ef8a35d6ac1b9591a021cb2d9ef840a7d7283fc14a339bcd68bca313af65d",
+      "status": "ready",
+      "audioSha256": "b820d27dae1d88a93151bdc0d8ca758247ce8fdec7391e61f8bdf8efa1e2adbe",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 6.32
+    },
+    "choice:home-handles:handles": {
+      "src": "audio/narration/choice-home-handles-handles-bc75e0bfb0d2.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "bc75e0bfb0d28cd820ac1e4701b62ab2ce08312a74219e6086e7384cc657a0fe",
+      "status": "ready",
+      "audioSha256": "3ec3059abfd0edd1d253ba8230dea7ccbe070e6c92fbb4050d9dc9f0e914d270",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 8.88
+    },
+    "choice:home-handles:frames": {
+      "src": "audio/narration/choice-home-handles-frames-c1084f236e0b.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "c1084f236e0b15206c92a9f703252fa719bb2f6aaad2a77c993066c8c7e70912",
+      "status": "ready",
+      "audioSha256": "c14f2ed906134bc6058c849eebebf36c6784ca1c30e75dc5e8e841616e8e5a13",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 8.08
+    },
+    "page:school-bell:body-0": {
+      "src": "audio/narration/page-school-bell-body-0-c4becf4ec93c.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "c4becf4ec93c39f2f77838eed89a0eab8e7ea360459f85eaa7efd2826b8e0896",
+      "status": "pending"
+    },
+    "page:school-bell:body-1": {
+      "src": "audio/narration/page-school-bell-body-1-13f5744594f0.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "13f5744594f048b386ad4d5e18ffc78520b18d5ce145418525bb42f04b51d274",
+      "status": "ready",
+      "audioSha256": "7287c4e93ff4578c8d7b89a9904b1868516458b5b54ef04a12a04a30065e9fe9",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 21.36
+    },
+    "page:school-bell:dialogue-0": {
+      "src": "audio/narration/page-school-bell-dialogue-0-51f9363225e3.wav",
+      "voice": "bm_daniel",
+      "textSha256": "51f9363225e33e946b8866047b8f06be4104d4120c53d4387e403c55aebd5d57",
+      "status": "ready",
+      "audioSha256": "9afe3bff98af93d4bd3cfc68120c607f67a9e7d90125b70722ee3f4f7a082c98",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 2.986666666666667
+    },
+    "choice:school-bell:record": {
+      "src": "audio/narration/choice-school-bell-record-b2d0977b89c0.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "b2d0977b89c00b73102fe5a6541607c2eea46f9541150ebb0d8a47d43d89e494",
+      "status": "ready",
+      "audioSha256": "e02323eae273f779f7d556841d7747f55b2161b48be005a671bc23202b3c36c1",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.2,
+      "normalizationVersion": 2
+    },
+    "choice:school-bell:welcome": {
+      "src": "audio/narration/choice-school-bell-welcome-a728b16ef5e6.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "a728b16ef5e6b2860c12c75b8135fa37dd2c5ad8a7efcb986bb041c378b659f1",
+      "status": "ready",
+      "audioSha256": "504867b45f2ce20c6e14e76acc70b8241999d3a058c8ad686f28cdad0925c748",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 6.720041666666667
+    },
+    "choice:school-bell:shatter": {
+      "src": "audio/narration/choice-school-bell-shatter-4de71a1c525b.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "4de71a1c525bb2746a2e657a824841696f7f86c4dbb4e9e04055e9dbf07b6429",
+      "status": "ready",
+      "audioSha256": "053250bdd8b6becc9de59086980da1878d909ec12332d32c33048b1362a4f349",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 8.16
+    },
+    "page:town-answer:body-0": {
+      "src": "audio/narration/page-town-answer-body-0-70695315576f.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "70695315576fc926a419158a1105c9f67f80a65958457852710d3eedce3144ad",
+      "status": "pending"
+    },
+    "page:town-answer:body-1": {
+      "src": "audio/narration/page-town-answer-body-1-926b43fd6aca.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "926b43fd6aca43ddbf98a508f6db97d983baea3cbc8c5c9ce0bb968c0c17f905",
+      "status": "ready",
+      "audioSha256": "bfe7e90847fc71d53866a3c8fe81172e5cab5536e8c4afecad5b18bbac5d48e7",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 20.08
+    },
+    "page:town-answer:dialogue-0": {
+      "src": "audio/narration/page-town-answer-dialogue-0-da30b00a90e0.wav",
+      "voice": "af_nicole",
+      "textSha256": "da30b00a90e07f0c26d484aa300e2f2330beade8c4b590833a0bfbc065cdabbc",
+      "status": "ready",
+      "audioSha256": "8d8ce5890b658f363f350ac29b7192276e9f2b99e6e1ae24a384e0a35bf0dd71",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 5.184
+    },
+    "choice:town-answer:public": {
+      "src": "audio/narration/choice-town-answer-public-68b6395b7d3b.wav",
+      "status": "ready",
+      "voice": "qn_lorath_refined",
+      "textSha256": "68b6395b7d3b72193eb72e04ae34046cd79dc0b46f965b30bf079ec88b98a931",
+      "audioSha256": "ac2df0d0fe753c63b305b4d5478cbeeda39b61d0079b56405ca02d14ad8dad4d",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 8.56,
+      "normalizationVersion": 3
+    },
+    "choice:town-answer:welcome": {
+      "src": "audio/narration/choice-town-answer-welcome-6cca88e6af9b.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "6cca88e6af9b3ad04578c77e25ec831b8e825ef29a04bf081803f77eb6ffdd0e",
+      "status": "ready",
+      "audioSha256": "a4bb42d3c2c01d9620ab764a93d6fe2d5c68c2d55fca2c0417c39e34f98d779f",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.84
+    },
+    "choice:town-answer:order": {
+      "src": "audio/narration/choice-town-answer-order-cd3f5e34f4dd.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "cd3f5e34f4ddfba3edd99f08e170d5ce3343fbb1e7bde03958eabb28a9a2bb5c",
+      "status": "ready",
+      "audioSha256": "0aa2d7ad5790eccf884aff29d55b0233ce2820a84bfa9ca4d4b8db4a91ad2de0",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.76
+    },
+    "page:king-debt:body-0": {
+      "src": "audio/narration/page-king-debt-body-0-01dd6f06fbf3.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "01dd6f06fbf30c16f40e2471e6dee40ccbe264eee47dd1f02b239c0b89e65476",
+      "status": "pending"
+    },
+    "page:king-debt:body-1": {
+      "src": "audio/narration/page-king-debt-body-1-17189e1b227f.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "17189e1b227f01c79d5eaaf09fe2c3208537d6775ab331ae2d3d7f3514939b82",
+      "status": "ready",
+      "audioSha256": "d14fbd614eb1aa189c335b9f7938583b8e2f4467e7b0104c5a95c1acf4ff4646",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 23.12
+    },
+    "page:king-debt:dialogue-0": {
+      "src": "audio/narration/page-king-debt-dialogue-0-3b3af65d8bc6.wav",
+      "voice": "bf_emma",
+      "textSha256": "3b3af65d8bc61a07c7aafd9d04edc7152ee4c87eb3bdd58a2d1cbd657a85f9f9",
+      "status": "ready",
+      "audioSha256": "cd44fb0edbebe1d68e0f2ad024ab56b70a349f34e8ac6510c5cbdc17f9100a6b",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 3.072
+    },
+    "choice:king-debt:explain": {
+      "src": "audio/narration/choice-king-debt-explain-507dc4e40bbc.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "507dc4e40bbc20fe72c83a4d675dd7afb1db054b2e7e317dc07f811b4610cc95",
+      "status": "ready",
+      "audioSha256": "61fd4a78406d03d33b8e797fe2f704d82b3b33f28cc1d2a81eb86a535ea9132d",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.52
+    },
+    "choice:king-debt:refuse": {
+      "src": "audio/narration/choice-king-debt-refuse-452ca9287dc1.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "452ca9287dc16075fb0b4e5d4d2905e13f67a7a481b6e1c24d118c55285b7535",
+      "status": "pending"
+    },
+    "choice:king-debt:accept": {
+      "src": "audio/narration/choice-king-debt-accept-46c3bec234f4.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "46c3bec234f444b3329520e47dab7f42251f4d15c518f17144c267093779a258",
+      "status": "ready",
+      "audioSha256": "cee39bfbe48c0fb79cb37a647a95f4bb78e42b7f667590c40f72835bf4fc5272",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 10.400041666666667
+    },
+    "page:memory-price:body-0": {
+      "src": "audio/narration/page-memory-price-body-0-fa46ebb4bb42.wav",
+      "status": "ready",
+      "voice": "qn_lorath_refined",
+      "textSha256": "fa46ebb4bb4226c4d72cfb351f59903d57bac3fa4fbafa2d0241c2404362097a",
+      "audioSha256": "0299563e69f8482c64c8e34646381b8e067dcbf363d85dc36d23e792ffcf89f9",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 46.56008333333333,
+      "normalizationVersion": 3
+    },
+    "page:memory-price:body-1": {
+      "src": "audio/narration/page-memory-price-body-1-893cc95ccbb9.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "893cc95ccbb977c45ba9a7d114fa6b2fbc3ef0021b0eb93d7cbdeb7136998dd9",
+      "status": "ready",
+      "audioSha256": "2e6b513c395bba0578968d1068e160ea6550849f79f86708a9071a601bcab087",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 21.84
+    },
+    "page:memory-price:dialogue-0": {
+      "src": "audio/narration/page-memory-price-dialogue-0-8f0ea20c3fa4.wav",
+      "voice": "af_heart",
+      "textSha256": "8f0ea20c3fa4dd71c1d0183862912b5ced30968e8408a67bd2d1733d92732181",
+      "status": "ready",
+      "audioSha256": "cd78c47cb4755da48e838fceb896c18da1a90e879996a9fff503c125be0152e3",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 4.053333333333334
+    },
+    "choice:memory-price:keep": {
+      "src": "audio/narration/choice-memory-price-keep-1fb48c76fc61.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "1fb48c76fc61d97efa57531741170221ba0216e5ccd520c7d0197d4915ed47a8",
+      "status": "ready",
+      "audioSha256": "d1aec5ca1a2176296b6d5f226c8305ca3c6a42b7f013b43467ec05ad5e0b0f6a",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.44
+    },
+    "choice:memory-price:share": {
+      "src": "audio/narration/choice-memory-price-share-37acc78e1f2e.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "37acc78e1f2e8551f9d0d135dec71030ce8852d06429f7751af9ef030cf62b20",
+      "status": "ready",
+      "audioSha256": "39fb42a002a4a700d30113204df3e03088a5c3b1e5f3eb091e22fbcfde30aaf8",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.76
+    },
+    "choice:memory-price:offer": {
+      "src": "audio/narration/choice-memory-price-offer-db18c94da0f8.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "db18c94da0f8698b92822da4422fe50d5889074a352d06accd387deb60e5d5f5",
+      "status": "pending"
+    },
+    "page:last-breath:body-0": {
+      "src": "audio/narration/page-last-breath-body-0-49b628266631.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "49b628266631ec7e3f95b8184a04b8ec98ed9f31acdeea738a28e23b8322d280",
+      "status": "ready",
+      "audioSha256": "342941edbf7010ad1163d8de2634bdbf475b404d18c05b750656616fabd917de",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 54.160041666666665
+    },
+    "page:last-breath:body-1": {
+      "src": "audio/narration/page-last-breath-body-1-aab19e758171.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "aab19e7581714fbfbbd108473429b7dc424ca87c8e67d447f077495cd11d561f",
+      "status": "ready",
+      "audioSha256": "a6943a81e65e48dca95e237f656899df3b3e207edd009ba29c7459a7a1f11373",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 23.28
+    },
+    "page:last-breath:dialogue-0": {
+      "src": "audio/narration/page-last-breath-dialogue-0-8fc875bac749.wav",
+      "voice": "bm_daniel",
+      "textSha256": "8fc875bac7496737f71a94735b56f9fcca0a8dd5f49ecbed805850c2bab0851b",
+      "status": "ready",
+      "audioSha256": "8499e8d9bb11501608a23c4d93c27c71539f41ce69373d292c1ebc40e5a86db4",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 3.7973333333333334
+    },
+    "choice:last-breath:witness": {
+      "src": "audio/narration/choice-last-breath-witness-719798560530.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "719798560530cad190eb9ce81fedb551e6a9991d25ac4e8a7dd02890a41787b9",
+      "status": "ready",
+      "audioSha256": "f22767600123226325605694288bee4398cb1e4af96a40d66c314f90fea21801",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 7.040041666666666
+    },
+    "choice:last-breath:release": {
+      "src": "audio/narration/choice-last-breath-release-c61cdb127e6f.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "c61cdb127e6fa408e44c9897eda7af94c2722fbe5a22e4f09fd859ca117a7f02",
+      "status": "ready",
+      "audioSha256": "79f22aab2f834da4ca15a39b5d1b3615c987bc8874b62a0490745298cd2170b2",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 6.8
+    },
+    "choice:last-breath:defy": {
+      "src": "audio/narration/choice-last-breath-defy-02ad1dad31ec.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "02ad1dad31ece9fb7319e04d80ae314dd2a4294136998aaea5893aa27b7aecba",
+      "status": "ready",
+      "audioSha256": "0ddc1c95658b4e4d56a4f17e8856b209609da68914600774ad048fcdcafcba42",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 8.08
+    },
+    "page:names-at-dawn:body-0": {
+      "src": "audio/narration/page-names-at-dawn-body-0-aaefbed135fa.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "aaefbed135fa92fd585edaf70f388225c50f2e0c2c347f5c2429413d26aee707",
+      "status": "pending"
+    },
+    "page:winter-finished:body-0": {
+      "src": "audio/narration/page-winter-finished-body-0-809d224b9376.wav",
+      "status": "ready",
+      "voice": "qn_lorath_refined",
+      "textSha256": "809d224b937611f3695c76d478331a53b557e9671019855cb3f370b7f6914b9c",
+      "audioSha256": "beea3c938c734ba266bfc9eb4e1c055c778d90d0aaaa862def3e99b224947e32",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "normalizationVersion": 2,
+      "durationSeconds": 59.92
+    },
+    "page:archive-open:body-0": {
+      "src": "audio/narration/page-archive-open-body-0-da34186dba6c.wav",
+      "status": "ready",
+      "voice": "qn_lorath_refined",
+      "textSha256": "da34186dba6cf3f5783c27c45940f2a2529d0b53be4f6a888d3505ca7830bbb4",
+      "audioSha256": "b5c6eca4a8e6596097356c81c893fd60ae5ebc140b5d8d576cda01a664f64ae0",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "normalizationVersion": 2,
+      "durationSeconds": 61.6
+    },
+    "page:borrowed-witness:body-0": {
+      "src": "audio/narration/page-borrowed-witness-body-0-58226b8c895c.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "58226b8c895c4e483a0deb8d6e2c39baefe6754d23034e39ca12b16209e97bce",
+      "status": "pending"
+    },
+    "page:children-home:body-0": {
+      "src": "audio/narration/page-children-home-body-0-4e21b3055823.wav",
+      "status": "ready",
+      "voice": "qn_lorath_refined",
+      "textSha256": "4e21b30558238cb159b2efb4afb4d5e2322c3158ff4b4d30173699d207e184cc",
+      "audioSha256": "f5fe6fe254d9b85701167b342d0848bd70e0915e7767c7a1b263d23812d72a56",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "normalizationVersion": 4,
+      "durationSeconds": 57.36004166666667
+    },
+    "page:lantern-common:body-0": {
+      "src": "audio/narration/page-lantern-common-body-0-ccd55e89f755.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "ccd55e89f7559c7e072051035721fcee4c7804b041c857aa0f996d8a934ebcaa",
+      "status": "pending"
+    },
+    "page:monsters-unbound:body-0": {
+      "src": "audio/narration/page-monsters-unbound-body-0-122c660be8e2.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "122c660be8e2f328bfba6a3cb9d58e5a7645716646f8ee2f8b80a3024d5c3a38",
+      "status": "pending"
+    },
+    "page:monsters-unbound:body-1": {
+      "src": "audio/narration/page-monsters-unbound-body-1-11b9d9615f5f.wav",
+      "status": "ready",
+      "voice": "qn_lorath_refined",
+      "textSha256": "11b9d9615f5f2a4dd1f35856f4a7ed9695646e591ce629643bc862dc3979fa8d",
+      "audioSha256": "1ab230ae3765bec03d0e169df44032420975a5bf735df60fb7dec2ba6e405390",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "normalizationVersion": 2,
+      "durationSeconds": 23.68
+    },
+    "page:long-watch:body-0": {
+      "src": "audio/narration/page-long-watch-body-0-81d08f7c62f6.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "81d08f7c62f6a3f114f959d8d5d303041df20dfcfa5cb0c5523b0a913c831a99",
+      "status": "pending"
+    },
+    "page:crown-broken:body-0": {
+      "src": "audio/narration/page-crown-broken-body-0-b4fa55ba8438.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "b4fa55ba8438246dbcfde8e4cdfad75f8126b3618d809d0f1ce0e7a6802ea7f3",
+      "status": "ready",
+      "audioSha256": "2e356032a0851ed5f89b155df616bf6f734fd009c71197f084c7484ec160b241",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 49.12
+    },
+    "page:dawn-road:body-0": {
+      "src": "audio/narration/page-dawn-road-body-0-859c9478444a.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "859c9478444a0ca1998d00a92920f48e874099ee4fcb308a371d127efda07340",
+      "status": "ready",
+      "audioSha256": "80c416c6477130997b0ba22999b61ffaab3208c67b6ef7cc7869bc7b9bab57e3",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 66.32004166666667
+    },
+    "page:town-unmasked:body-0": {
+      "src": "audio/narration/page-town-unmasked-body-0-79883a5fde68.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "79883a5fde6882e261b6d7ee539fff56636b833b427638d37077dc95c4f9ce22",
+      "status": "pending"
+    },
+    "page:one-more-year:body-0": {
+      "src": "audio/narration/page-one-more-year-body-0-334556b7e27a.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "334556b7e27a86f925463a7589f7ed5b0873f0806fa3f66e331433278c529bf5",
+      "status": "pending"
+    },
+    "page:one-more-year:body-1": {
+      "src": "audio/narration/page-one-more-year-body-1-2422c3c2d7fe.wav",
+      "status": "ready",
+      "voice": "qn_lorath_refined",
+      "textSha256": "2422c3c2d7fe836698c6609d444c7c5321e5688ace86f422e96cb7cfcf9a5224",
+      "audioSha256": "d03c837dc4118a0f00efd73681041a2c4b2419a88161e19baee78a4e2f02bb44",
+      "sampleRate": 24000,
+      "channels": 1,
+      "bits": 24,
+      "transcriptQA": "passed",
+      "durationSeconds": 19.36,
+      "normalizationVersion": 3
+    },
+    "landing": {
+      "src": "audio/narration/landing-885ae74654a3.wav",
+      "voice": "qn_lorath_refined",
+      "textSha256": "885ae74654a3c012d365b07f9c6efd138fdca1fe1e9bac7b2f3d6b1077ec5cb0",
+      "status": "pending"
+    }
+  },
+  "readyClips": 172,
+  "requiredClips": 231,
+  "complete": false
+}

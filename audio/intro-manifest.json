@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "bookId": "thirteenth-lantern-adult-v2",
+  "intro": {
+    "bookId": "thirteenth-lantern-adult-v2",
+    "src": "audio/intro/adult-intro-thirteenth-lantern-51c9db96b262.wav",
+    "voice": "qn_lorath_refined",
+    "seed": 93019,
+    "textSha256": "51c9db96b2627ae7b16cfdbcc45d0189262b3d68ec80f7a78e0061fe718d0769",
+    "sampleRate": 24000,
+    "channels": 1,
+    "bits": 24,
+    "status": "ready",
+    "audioSha256": "07efe2f8c0190f3094d2ed90056c8ef122eea86f3dd118f7ab6e295d8a9c4baf",
+    "transcriptQA": "passed",
+    "durationSeconds": 18.32004166666667,
+    "humanListeningReviewed": false
+  }
+}

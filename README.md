@@ -8,8 +8,6 @@
 
 *Promotional cover art; gameplay screenshots appear below.*
 
-> **Status:** the game files are being added to this repository. Until `index.html` is at the repository root, the GitHub Pages link above has nothing to show; the same game is playable on caseyshingledecker.com.
-
 ## What it is
 
 An adult horror choose-your-own-adventure. Silas Reed and Mara Vale enter October, a town that calls disappearance kindness; 601 routes lead to twelve substantial endings.

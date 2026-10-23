@@ -4,195 +4,195 @@ import {createBookAudio} from './audio.js';
 const SAVE='casey.thirteenth-lantern.story.v1';
 const PAGE_ART=Object.freeze({
   "last-bus": {
-    "src": "ext/media/horror/thirteenth-last-bus.png",
+    "src": "ext/media/design/thirteenth-20261023/last-bus.webp",
     "caption": "The last bus into October · Thirteenth Lantern"
   },
   "festival-records": {
-    "src": "ext/media/horror/thirteenth-market.png",
+    "src": "ext/media/design/thirteenth-20261023/festival-records.webp",
     "caption": "A market of bottled memories · Thirteenth Lantern"
   },
   "festival-children": {
-    "src": "ext/media/horror/thirteenth-shadows.png",
+    "src": "ext/media/design/thirteenth-20261023/festival-children.webp",
     "caption": "Shadows at the fountain · Thirteenth Lantern"
   },
   "festival-collectors": {
-    "src": "ext/media/horror/thirteenth-procession.png",
+    "src": "ext/media/design/thirteenth-20261023/festival-collectors.webp",
     "caption": "The paper collectors · Thirteenth Lantern"
   },
   "manor-guestbook": {
-    "src": "ext/media/horror/thirteenth-guestbook.png",
+    "src": "ext/media/design/thirteenth-20261023/manor-guestbook.webp",
     "caption": "A guestbook without a host · Thirteenth Lantern"
   },
   "coatroom-faces": {
-    "src": "ext/media/horror/thirteenth-coatroom.png",
+    "src": "ext/media/design/thirteenth-20261023/coatroom-faces.webp",
     "caption": "What the guests left behind · Thirteenth Lantern"
   },
   "portrait-winter": {
-    "src": "ext/media/horror/thirteenth-winter-portrait.png",
+    "src": "ext/media/design/thirteenth-20261023/portrait-winter.webp",
     "caption": "The winter painted over · Thirteenth Lantern"
   },
   "thirteenth-plate": {
-    "src": "ext/media/horror/thirteenth-dining-place.png",
+    "src": "ext/media/design/thirteenth-20261023/thirteenth-plate.webp",
     "caption": "Dinner for an absent guest · Thirteenth Lantern"
   },
   "stairs-listen": {
-    "src": "ext/media/horror/thirteenth-listening-stair.png",
+    "src": "ext/media/design/thirteenth-20261023/stairs-listen.webp",
     "caption": "The staircase that listens · Thirteenth Lantern"
   },
   "iona-workroom": {
-    "src": "ext/media/horror/thirteenth-iona-workroom.png",
+    "src": "ext/media/design/thirteenth-20261023/iona-workroom.webp",
     "caption": "Iona’s interrupted work · Thirteenth Lantern"
   },
   "bellwrought-room": {
-    "src": "ext/media/horror/thirteenth-daniel-room.png",
+    "src": "ext/media/design/thirteenth-20261023/bellwrought-room.webp",
     "caption": "The room Daniel could not leave · Thirteenth Lantern"
   },
   "cellar-covenant": {
-    "src": "ext/media/horror/thirteenth-cellar-covenant.png",
+    "src": "ext/media/design/thirteenth-20261023/cellar-covenant.webp",
     "caption": "The agreement under the floor · Thirteenth Lantern"
   },
   "bone-orchard": {
-    "src": "ext/media/horror/thirteenth-bone-orchard.png",
+    "src": "ext/media/design/thirteenth-20261023/bone-orchard.webp",
     "caption": "Apples that remember teeth · Thirteenth Lantern"
   },
   "quiet-coffin": {
-    "src": "ext/media/horror/thirteenth-quiet-coffin.png",
+    "src": "ext/media/design/thirteenth-20261023/quiet-coffin.webp",
     "caption": "The coffin that held a voice · Thirteenth Lantern"
   },
   "king-audience": {
-    "src": "ext/media/horror/thirteenth-king-audience.png",
+    "src": "ext/media/design/thirteenth-20261023/king-audience.webp",
     "caption": "The king who had been listening · Thirteenth Lantern"
   },
   "sleepers-gallery": {
-    "src": "ext/media/horror/thirteenth-sleepers-gallery.png",
+    "src": "ext/media/design/thirteenth-20261023/sleepers-gallery.webp",
     "caption": "Thirteen separate breaths · Thirteenth Lantern"
   },
   "winter-window": {
-    "src": "ext/media/horror/thirteenth-winter-window.png",
+    "src": "ext/media/design/thirteenth-20261023/winter-window.webp",
     "caption": "The window where winter waited · Thirteenth Lantern"
   },
   "iona-clock": {
-    "src": "ext/media/horror/thirteenth-iona-clock.png",
+    "src": "ext/media/design/thirteenth-20261023/iona-clock.webp",
     "caption": "A clock with no spare life · Thirteenth Lantern"
   },
   "names-at-dawn": {
-    "src": "ext/media/horror/thirteenth-names-at-dawn.png",
+    "src": "ext/media/design/thirteenth-20261023/names-at-dawn.webp",
     "caption": "The names at dawn · Thirteenth Lantern"
   },
   "winter-finished": {
-    "src": "ext/media/horror/thirteenth-winter-finished.png",
+    "src": "ext/media/design/thirteenth-20261023/winter-finished.webp",
     "caption": "The winter allowed to end · Thirteenth Lantern"
   },
   "archive-open": {
-    "src": "ext/media/horror/thirteenth-archive-open.png",
+    "src": "ext/media/design/thirteenth-20261023/archive-open.webp",
     "caption": "The archive with no locked shelf · Thirteenth Lantern"
   },
   "borrowed-witness": {
-    "src": "ext/media/horror/thirteenth-borrowed-witness.png",
+    "src": "ext/media/design/thirteenth-20261023/borrowed-witness.webp",
     "caption": "The witness who paid · Thirteenth Lantern"
   },
   "children-home": {
-    "src": "ext/media/horror/thirteenth-doors-inward.png",
+    "src": "ext/media/design/thirteenth-20261023/children-home.webp",
     "caption": "The doors that opened inward · Thirteenth Lantern"
   },
   "lantern-common": {
-    "src": "ext/media/horror/thirteenth-light-common.png",
+    "src": "ext/media/design/thirteenth-20261023/lantern-common.webp",
     "caption": "A light nobody owned · Thirteenth Lantern"
   },
   "monsters-unbound": {
-    "src": "ext/media/horror/thirteenth-monsters-unbound.png",
+    "src": "ext/media/design/thirteenth-20261023/monsters-unbound.webp",
     "caption": "Those who were more than their shapes · Thirteenth Lantern"
   },
   "long-watch": {
-    "src": "ext/media/horror/thirteenth-long-watch.png",
+    "src": "ext/media/design/thirteenth-20261023/long-watch.webp",
     "caption": "The long watch honestly named · Thirteenth Lantern"
   },
   "crown-broken": {
-    "src": "ext/media/horror/thirteenth-crown-broken.png",
+    "src": "ext/media/design/thirteenth-20261023/crown-broken.webp",
     "caption": "The crown in the river · Thirteenth Lantern"
   },
   "dawn-road": {
-    "src": "ext/media/horror/thirteenth-dawn-road.png",
+    "src": "ext/media/design/thirteenth-20261023/dawn-road.webp",
     "caption": "The road beyond the festival · Thirteenth Lantern"
   },
   "town-unmasked": {
-    "src": "ext/media/horror/thirteenth-town-unmasked.png",
+    "src": "ext/media/design/thirteenth-20261023/town-unmasked.webp",
     "caption": "The festival that stopped applauding · Thirteenth Lantern"
   },
   "one-more-year": {
-    "src": "ext/media/horror/thirteenth-one-more-year.png",
+    "src": "ext/media/design/thirteenth-20261023/one-more-year.webp",
     "caption": "One more year is still a bargain · Thirteenth Lantern"
   },
   "sexton-water": {
-    "src": "ext/media/horror/thirteenth-sexton-water.png",
+    "src": "ext/media/design/thirteenth-20261023/sexton-water.webp",
     "caption": "The keeper of the drowned names · Thirteenth Lantern"
   },
   "cantor-threshold": {
-    "src": "ext/media/horror/thirteenth-cantor-threshold.png",
+    "src": "ext/media/design/thirteenth-20261023/cantor-threshold.webp",
     "caption": "The choir with one empty throat · Thirteenth Lantern"
   },
   "unclaimed-room": {
-    "src": "ext/media/horror/thirteenth-unclaimed-room.png",
+    "src": "ext/media/design/thirteenth-20261023/unclaimed-room.webp",
     "caption": "The waiting room of the unclaimed · Thirteenth Lantern"
   },
   "grave-count": {
-    "src": "ext/media/horror/thirteenth-grave-count.png",
+    "src": "ext/media/design/thirteenth-20261023/grave-count.webp",
     "caption": "The graveyard's unfinished count · Thirteenth Lantern"
   },
   "river-letter": {
-    "src": "ext/media/horror/thirteenth-river-letter.png",
+    "src": "ext/media/design/thirteenth-20261023/river-letter.webp",
     "caption": "A letter from before the flood · Thirteenth Lantern"
   },
   "castle-road": {
-    "src": "ext/media/horror/thirteenth-castle-road.png",
+    "src": "ext/media/design/thirteenth-20261023/castle-road.webp",
     "caption": "The road that returned the footsteps · Thirteenth Lantern"
   },
   "widow-doors": {
-    "src": "ext/media/horror/thirteenth-widow-doors.png",
+    "src": "ext/media/design/thirteenth-20261023/widow-doors.webp",
     "caption": "The doors the widow held open · Thirteenth Lantern"
   },
   "cantor-court": {
-    "src": "ext/media/horror/thirteenth-cantor-court.png",
+    "src": "ext/media/design/thirteenth-20261023/cantor-court.webp",
     "caption": "The court of perfect excuses · Thirteenth Lantern"
   },
   "sexton-ledger": {
-    "src": "ext/media/horror/thirteenth-sexton-ledger.png",
+    "src": "ext/media/design/thirteenth-20261023/sexton-ledger.webp",
     "caption": "The ledger of those who could not sign · Thirteenth Lantern"
   },
   "wolf-stair": {
-    "src": "ext/media/horror/thirteenth-wolf-stair.png",
+    "src": "ext/media/design/thirteenth-20261023/wolf-stair.webp",
     "caption": "The creature on the ward stair · Thirteenth Lantern"
   },
   "crown-chain": {
-    "src": "ext/media/horror/thirteenth-crown-chain.png",
+    "src": "ext/media/design/thirteenth-20261023/crown-chain.webp",
     "caption": "The chain above the empty chair · Thirteenth Lantern"
   },
   "names-flame": {
-    "src": "ext/media/horror/thirteenth-names-flame.png",
+    "src": "ext/media/design/thirteenth-20261023/names-flame.webp",
     "caption": "What the flame is allowed to keep · Thirteenth Lantern"
   },
   "home-handles": {
-    "src": "ext/media/horror/thirteenth-home-handles.png",
+    "src": "ext/media/design/thirteenth-20261023/home-handles.webp",
     "caption": "A handle on the inside · Thirteenth Lantern"
   },
   "school-bell": {
-    "src": "ext/media/horror/thirteenth-school-bell.png",
+    "src": "ext/media/design/thirteenth-20261023/school-bell.webp",
     "caption": "The bell that must learn a different call · Thirteenth Lantern"
   },
   "town-answer": {
-    "src": "ext/media/horror/thirteenth-town-answer.png",
+    "src": "ext/media/design/thirteenth-20261023/town-answer.webp",
     "caption": "The town on the other side of the window · Thirteenth Lantern"
   },
   "king-debt": {
-    "src": "ext/media/horror/thirteenth-king-debt.png",
+    "src": "ext/media/design/thirteenth-20261023/king-debt.webp",
     "caption": "The place offered beside the King · Thirteenth Lantern"
   },
   "memory-price": {
-    "src": "ext/media/horror/thirteenth-memory-price.png",
+    "src": "ext/media/design/thirteenth-20261023/memory-price.webp",
     "caption": "The memory nobody else can offer · Thirteenth Lantern"
   },
   "last-breath": {
-    "src": "ext/media/horror/thirteenth-last-breath.png",
+    "src": "ext/media/design/thirteenth-20261023/last-breath.webp",
     "caption": "The last breath before morning · Thirteenth Lantern"
   }
 });
